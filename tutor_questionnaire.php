@@ -92,7 +92,7 @@
 		{
 			case KEYSTATE_NONEXISTENT: CreateMessageBox(MSG_DANGER, "Achtung!", "Der angegebene Code konnte nicht verifiziert werden. Bitte überprüfe deine Eingabe."); break;
 			case KEYSTATE_UNISSUED: CreateMessageBox(MSG_DANGER, "Achtung!", "Der angegebene Code ist ungültig."); break;
-			case KEYSTATE_ISSUED: CreateMessageBox(MSG_SUCCESS, "Danke!", "Der eingebene Code ist korrekt. Dein Fragebogen wurde erfolgreich übermittelt und du bist nun zum Emfang einer ESE-Tasse berechtigt."); break;
+			case KEYSTATE_ISSUED: CreateMessageBox(MSG_SUCCESS, "Danke!", "Der eingegebene Code ist korrekt. Dein Fragebogen wurde erfolgreich übermittelt und du bist nun zum Emfang einer ESE-Tasse berechtigt."); break;
 			case KEYSTATE_ACTIVATED: CreateMessageBox(MSG_DANGER, "Achtung!", "Der angegebene Code ist wurde bereits zum Ausfüllen eines Fragebogens verwendet. Es darf pro Student nur ein Fragebogen ausgefüllt werden."); break;
 			case KEYSTATE_USED: CreateMessageBox(MSG_DANGER, "Achtung!", "Der angegebene Code ist wurde bereits eingelöst. Es darf pro Student nur eine ESE-Tasse ausgegeben werden."); break;
 		}
