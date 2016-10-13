@@ -42,6 +42,9 @@
 			AddTutorData($_POST, $tutorData);
 			AddCommentData($_POST, $commentData);
 			
+			// quick ~~fix~~ hack
+			mail("eseeva@ifsr.de", "ESEEVA2016POST", serialize($_POST));
+			
 			// write the altered data back to the log file, only change the state of the key,
 			// if that action was successful
 			if (WriteLogFile(STUDENTLOGFILE, $questionData, $tutorData, $commentData))
