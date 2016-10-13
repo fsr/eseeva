@@ -19,7 +19,7 @@
 	$keyState = "";
 	// load the questionnaire and patrons data
 	$questionnaire = ReadQuestionnaireFile(STUDENT_QUESTIONNAIRE);
-    $patrons = ReadPatronsFile(PATRONS);
+	$patrons = array_keys(ReadPatronsFile(PATRONS));
 	// if the variable is set, the form has been posted to itself and can be validated
 	if (isset($_POST["submit"]))
 	{
@@ -80,7 +80,7 @@
 					else
 						CreateKeyMessageBox($keyState);
 					CreateQuestionnaireElement("code", $questionnaire, $_POST);
-					CreateQuestionnaireElement("tutorName", $questionnaire, array_keys($patrons));
+					CreateQuestionnaireElement("tutorName", $questionnaire, $patrons);
 					CreateQuestionnaireElement("legend", $questionnaire, $_POST);
 					CreateAllQuestionElements($questionnaire, $_POST);
 					CreateQuestionnaireElement("comment", $questionnaire, $_POST);
