@@ -1,15 +1,15 @@
 <?php
 //============================================================================
 // Name        : keyLib.php
-// Author      : Patrick Reipschläger
-// Version     : 1.0
-// Date        : 08-2013
+// Author      : Patrick Reipschläger, Lucas Woltmann
+// Version     : 2.0
+// Date        : 01-2017
 // Description : Provides several functions for creating and handling keys
 //               for the ESE evaluation for students and tutors.
 //============================================================================
 
 	// Constant for the file which contains the keys, should be used by all other scripts so it can easily be changed
-	define ("KEYFILE", "keys/Keys.csv");
+	define ("KEYFILE", "db/eseeva.db");
 	// Constants for the different key states that are possible, should always be used when altering or checking the state of a key
 	define ("KEYSTATE_NONEXISTENT", "nonexistent");
 	define ("KEYSTATE_UNISSUED", "unissued");
@@ -48,133 +48,176 @@
 		return array_unique($keys);
 	}
 	/**
-	 * Generates a new key file with the specified name that contains the specified
-	 * amount of newly generated keys.
+	 * Generates a new keys in the database.
 	 * Returns true if the key file was created successfully, otherwise false.
 	 *
 	 * @param integer $keyAmount The amount of keys that should be generated.
-	 * @param string $fileName The name of the key file that should be created.
+	 * @param string $fileName The name of the key database that should be created.
 	 */
-	function CreateKeyFile($keyAmount, $fileName)
+	function CreateKeys($keyAmount, $fileName)
 	{
-		$handle = fopen($fileName, 'w');
+		$handle = new SQLite3($fileName, SQLITE3_OPEN_READWRITE);
 		if (!$handle)
 			return false;
 		$keys = GenerateKeys($keyAmount);
-		$data = "Nr;Key;Status\n";
-		$count = count($keys) - 1;
+		$count = count($keys);
+		
 		for ($i = 0; $i < $count; $i++)
-			$data = $data . $i . ";" . $keys[$i] . ";" . KEYSTATE_UNISSUED. "\n";
-		$data = $data . $count . ";" . $keys[$count] . ";". KEYSTATE_UNISSUED;
-		fwrite($handle, $data);
-		fclose($handle);
+		{
+			$stmt = $handle->prepare("INSERT INTO answers (KeyId, Status) VALUES (:key,:status);");
+			if ($stmt)
+	        {
+	            $stmt->bindValue(':key', $keys[$i], SQLITE3_TEXT);
+	            $stmt->bindValue(':status', KEYSTATE_UNISSUED, SQLITE3_TEXT);
+				$result = $stmt->execute();
+	        }
+	        else
+	        {
+	            $handle->close(); 
+	            return false;
+	        }
+    	}
+
+		$handle->close();
 		return true;
 	}
 	/**
-	 * Opens the file with the specified name and reads all key data that the file contains.
+	 * Opens the database with the specified name and reads all key data that the database contains.
 	 * The resulting data type will be an array of arrays consisting of the key and its state.
 	 * Returns null if the key file could not be found or read.
 	 *
-	 * @param string $fileName The file which should be read
+	 * @param string $fileName The database which should be read.
 	 * @return array
 	 */
-	function ReadKeyFile($fileName)
+	function ReadKeys($fileName)
 	{
 		if (!file_exists($fileName))
 			return null;
-		$handle = fopen($fileName, 'r');
+		$handle = new SQLite3($fileName, SQLITE3_OPEN_READONLY);
 		if (!$handle)
 			return null;
-		$data = fread($handle, filesize($fileName));
-		$lines = explode("\n", $data);
-		fclose($handle);
-		$keyData = array();
-		for ($i = 1; $i < count($lines); $i++)
-		{
-			$tmp = explode(";", $lines[$i]);
-			array_push($keyData, array($tmp[1], $tmp[2]));
-		}
-		return $keyData;
-	}
-	/**
-	 * Writes the specified key data to the file with the specified name.
-	 * The data type of the $keyData should be an array of arrays consisting of the key and its state.
-	 * Returns true if the key file was successfully written, otherwise false.
-	 *
-	 * @param string $fileName The name of the file to which the key data should be written.
-	 * @param array $keyData The key data which should be written to the file. Passed by reference.
-	 * @return boolean
-	 */
-	function WriteKeyFile($fileName, &$keyData)
-	{
-		if (!isset($fileName) || !isset($keyData))
-			return false;
-		$handle = fopen($fileName, 'c');
-		if ($handle == null)
-			return false;
-		// debug code
-		//echo "<script type='text/javascript'>alert('file opened');</script>";
-		$data = "Nr;Key;Status\n";
-		$count = count($keyData) - 1;
-		for ($i = 0; $i < $count; $i++)
-			$data = $data . $i . ";" . $keyData[$i][0] . ";" . $keyData[$i][1] . "\n";
-		$data = $data . $count . ";" . $keyData[$count][0] . ";" . $keyData[$count][1];
+		$data = $handle->query("SELECT KeyId, Status FROM answers;");
+		$data = PrepareResult($data);
+		$handle->close();
 
-		//use exclusive lock for writing
-		flock($handle, LOCK_EX);
-		ftruncate($handle, 0);
-		$res = fwrite($handle, $data);
-		fflush($handle);
-		flock($handle, LOCK_UN);
-		// debug Code
-		//if ($res == false)
-		//	echo "<script type='text/javascript'>alert('file not written');</script>";
-		//else
-		//	echo "<script type='text/javascript'>alert('file written');</script>";
-		fclose($handle);
-		if ($res) 
+		if ($data) 
 		{
-			return true;
+			return $data;
 		}
-		else
-		{
-			return false;
-		}
+		
+		return array();
 	}
 	/**
-	 * Get the current state of the specified key which will be one of the defines
+	 * Get the current state of the specified key from the database, which will be one of the defines
 	 * KEYSTATE constants.
-	 * The data type of the key data should be an array of arrays consisting of the key and its state.
 	 *
-	 * @param array $keyData The key data array in which the key should be found. Passed by reference.
+	 * @param array $fileName The database with the keys.
 	 * @param string $key The key which state should be got. Passed by reference.
 	 * @return integer
 	 */
-	function GetKeyState(&$keyData, &$key)
+	function GetKeyState($fileName, &$key)
 	{
-		for ($i = 0; $i < count($keyData); $i++)
-			if ($key == $keyData[$i][0])
-				return $keyData[$i][1];
+		if (!file_exists($fileName))
+			return null;
+		$handle = new SQLite3($fileName, SQLITE3_OPEN_READONLY);
+		if (!$handle)
+			return null;
+
+		$stmt = $handle->prepare("SELECT Status FROM answers WHERE KeyId=:keyid;");
+		if ($stmt)
+        {
+            $stmt->bindValue(':keyid', $key, SQLITE3_TEXT);
+			$result = $stmt->execute();
+			$result = $result->fetchArray(SQLITE3_ASSOC);
+
+			$handle->close(); 
+			return $result["Status"];
+        }
+
+        $handle->close(); 
 		return KEYSTATE_NONEXISTENT;
 	}
 	/**
 	 * Set the state of the specified key to the specified state.
-	 * The data type of the $keyData should be an array of arrays consisting of the key and its state.
 	 * Returns true if the key was found within the key data and the state has been changed, otherwise false.
 	 *
-	 * @param array $keyData The key data array in which the key should be found. Passed by reference.
+	 * @param array $fileName The database in which the key should be found.
 	 * @param string $key The key which state should be changed.
 	 * @param integer $newState The new state of the specified key. Must be on of the KEYSTATE constants.
 	 * @return boolean
 	 */
-	function SetKeyState(&$keyData, &$key, $newState)
+	function SetKeyState($fileName, &$key, $newState)
+	{	
+		if (!file_exists($fileName))
+			return false;
+		$handle = new SQLite3($fileName, SQLITE3_OPEN_READWRITE);
+		if (!$handle)
+			return false;
+
+		//secure override by checking if key has been uesed already
+		$stmt = $handle->prepare("UPDATE answers SET Status=:status WHERE KeyId=:keyid AND Status!=:status;");
+		if ($stmt)
+        {
+            $stmt->bindValue(':keyid', $key, SQLITE3_TEXT);
+            $stmt->bindValue(':status', $newState, SQLITE3_TEXT);
+			$result = $stmt->execute();
+
+			$handle->close(); 
+			return true;
+        }
+
+        $handle->close();
+        return false;
+	}
+	/**
+	 * Deletes a single key in the database if it has not been used yet.
+	 * Returns true if the key was deleted, otherwise false.
+	 *
+	 * @param array $fileName The database in which the key should be found.
+	 * @param string $key The key which should be deleted.
+	 * @return boolean
+	 */
+	function DeleteKey($fileName, &$key)
 	{
-		for ($i = 0; $i < count($keyData); $i++)
-			if ($key == $keyData[$i][0])
-			{
-				$keyData[$i][1] = $newState;
-				return true;
+		if (!file_exists($fileName))
+			return false;
+		$handle = new SQLite3($fileName, SQLITE3_OPEN_READWRITE);
+		if (!$handle)
+			return false;
+
+		//secure deleting by checking if key has been uesed already
+		$stmt = $handle->prepare("DELETE FROM answers WHERE KeyId=:keyid AND Answer!=NULL;");
+		if ($stmt)
+        {
+            $stmt->bindValue(':keyid', $key, SQLITE3_TEXT);
+			$result = $stmt->execute();
+
+			$handle->close();
+			return true;
+        }
+
+        $handle->close();
+        return false;
+	}
+	/**
+	 * Prepares the results from the database to an array of keys with their state.
+	 *
+	 * @param array $resultSet Cursor from the sqlite database. Passed by reference.
+	 * @return array
+	 */
+	function PrepareResult(&$resultSet)
+	{
+		$result = array();
+		$i = 0;
+
+		while($res = $resultSet->fetchArray(SQLITE3_ASSOC))
+		{
+			foreach ($res as $key => $value) {
+				$result[$i][$key] = $value;
 			}
-		return false;
+			$i++;
+		} 
+
+		return $result;
 	}
 ?>

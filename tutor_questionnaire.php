@@ -1,9 +1,9 @@
 <?php
 //============================================================================
 // Name        : tutor_questionnaire.php
-// Author      : Patrick Reipschläger
-// Version     : 1.0
-// Date        : 08-2013
+// Author      : Patrick Reipschläger, Lucas Woltmann
+// Version     : 2.0
+// Date        : 01-2017
 // Description : The form that tutors have to fill in
 //               for the ESE evaluation.
 //============================================================================
@@ -11,7 +11,7 @@
 	include_once 'libs/formLib.php';
 	include_once 'libs/questionnaireLib.php';
 	include_once 'libs/keyLib.php';
-	include_once 'libs/loggingLib.php';
+	include_once 'libs/dbLib.php';
 	
 	// indicates if an error occurred and what error
 	$error = 0;
@@ -22,30 +22,28 @@
 	// if the variable is set, the form has been posted to itself and can be validated
 	if (isset($_POST["submit"]))
 	{
-		// read the key
-		$keyData = ReadKeyFile(KEYFILE);
-		$keyState = GetKeyState($keyData, $_POST["code"]);
+		// read the key state
+		$keyState = GetKeyState(KEYFILE, $_POST["code"]);
 		if ($keyState == KEYSTATE_ISSUED)
 		{
 			// variables for the log data, tutor data is not needed but must be present
-			$questionData;
-			$tutorData;
+			$questionData = array();
+			$tutorData = array();
 			$commentData;
-			// read the existing log file, if there is no existing log file, the RadLogFile
-			// function guarantees the initialization of the log variables, which will
-			// result in the same outcome as if an empty log file is read
-			ReadLogFile(TUTORLOGFILE, $questionData, $tutorData, $commentData);
-			
-			// add the data of the form to the existing log data
+
+			// add the data of the form to the legacy data structure
 			AddQuestionData($_POST, $questionData, $questionnaire);
 			AddCommentData($_POST, $commentData);
-			
-			// write the altered data back to the log file, only change the state of the key,
+
+			// write the new data back to the database, only change the state of the key,
 			// if that action was successful
-			if (WriteLogFile(TUTORLOGFILE, $questionData, $tutorData, $commentData))
+			// Uses $student=0 to imply that a tutor answered the questionnaire.
+			if (WriteLogDatabase(LOGDB, 0, $questionData, $tutorData, $commentData, $_POST["code"]))
 			{
-				SetKeyState($keyData, $_POST["code"], KEYSTATE_ACTIVATED);
-				WriteKeyFile(KEYFILE, $keyData);
+				if (!SetKeyState(KEYFILE, $_POST["code"], KEYSTATE_ACTIVATED))
+				{
+					$error = 1;
+				}
 			}
 			// otherwise set the error flag
 			else

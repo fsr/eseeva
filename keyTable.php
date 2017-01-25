@@ -1,22 +1,22 @@
 <?php
 //============================================================================
 // Name        : keyTable.php
-// Author      : Patrick Reipschläger
-// Version     : 1.0
-// Date        : 08-2013
+// Author      : Patrick Reipschläger, Lucas Woltmann
+// Version     : 2.0
+// Date        : 01-2017
 // Description : For managing all keys and their states.
 //============================================================================
 	include_once 'libs/keyLib.php';
 	include_once 'libs/formLib.php';
 	// start a session prevent sending the same post twice
-	// if the user refreshes the page, it will default to the
-	// access code screen
 	session_start();
-	// the key file which should be edited, either the default key file or the one that was specified
+
 	$keyFile = KEYFILE;
 	if (isset($_GET["keyFile"]))
 		$keyFile = $_GET["keyFile"];
-	// holds the key data, either be generated from the form or by from the key file
+	else
+
+	// holds the key data, either be generated from the form or by from the database
 	$keyData;
 	
 	
@@ -25,53 +25,42 @@
 
 	if (isset($_SESSION["submissionId"]) && ($_SESSION["submissionId"] == $_POST["submissionId"]))
 	{
+		//user changes the states of some keys or deletes keys 
 		if (isset($_POST["changesConfirm"]))
 		{
-			$keyData = array();
 			$i = 0;
 			while(isset($_POST["keyIndex" . $i]))
 			{
-				if (!isset($_POST["keyDelete" . $i]) || $_POST["keyDelete" . $i] == false)
-					array_push($keyData, array($_POST["keyCode" . $i], $_POST["keyState" . $i]));
+				if (isset($_POST["keyDelete" . $i]))
+					DeleteKey($keyFile, $_POST["keyCode" . $i]);
+				else
+					SetKeyState($keyFile, $_POST["keyCode" . $i], $_POST["keyState" . $i]);
 				$i++;
 			}
-			WriteKeyFile($keyFile, $keyData);
+			$keyData = ReadKeys($keyFile);
 		}
+		//user generates new keys
 		else if (isset($_POST["keyGenNew"]))
 		{
 			$amount = $_POST["keyAmount"];
 			$keyFile = $_POST["keyFile"];
-			CreateKeyFile($amount, $keyFile);
-			$keyData = ReadKeyFile($keyFile);
+			CreateKeys($amount, $keyFile);
+			$keyData = ReadKeys($keyFile);
 		}
+		//user appends new keys
 		else if (isset($_POST["keyGenAppend"]))
 		{
-			$amount = (int)$_POST["keyAmount"];
+			$amount = $_POST["keyAmount"];
 			$keyFile = $_POST["keyFile"];
-			$keyData = ReadKeyFile($keyFile);
-			while($amount > 0)
-			{
-				$key = GenerateKey();
-				$duplicate = false;
-				foreach($keyData as $entry)
-					if ($entry[0] == $key)
-					{
-						$duplicate = true;
-						break;
-					}
-				if ($duplicate)
-					continue;
-				array_push($keyData, array($key, KEYSTATE_UNISSUED));
-				$amount--;
-			}
-			WriteKeyFile($keyFile, $keyData);
+			CreateKeys($amount, $keyFile);
+			$keyData = ReadKeys($keyFile);
 		}
 		else
-			$keyData = ReadKeyFile($keyFile);
+			$keyData = ReadKeys($keyFile);
 	}
 	// if the page was refreshed by the user, just load the key file
 	else
-		$keyData = ReadKeyFile($keyFile);
+		$keyData = ReadKeys($keyFile);
 	// generate a new submission id that is used within the form to prevent double posts
 	$_SESSION["submissionId"] = rand();
 ?>
@@ -109,15 +98,15 @@
 						echo "  </div>\n";
 						
 						echo "  <div class=\"col-6\">\n";
-						echo "    <input type=\"textbox\" class=\"form-control\" name=\"keyCode" . $i . "\" value=\"" . $keyData[$i][0] . "\" readonly/>\n";
+						echo "    <input type=\"textbox\" class=\"form-control\" name=\"keyCode" . $i . "\" value=\"" . $keyData[$i]["KeyId"] . "\" readonly/>\n";
 						echo "  </div>\n";
 						
 						echo "  <div class=\"col-2\">\n";
 						echo "  <select class=\"form-control lead\" name=\"keyState" . $i . "\">";
-						echo "    <option value=\"" . KEYSTATE_UNISSUED . "\""; if ($keyData[$i][1] == KEYSTATE_UNISSUED) echo " selected"; echo">" . KEYSTATE_UNISSUED . "</option>";
-						echo "    <option value=\"" . KEYSTATE_ISSUED . "\""; if ($keyData[$i][1] == KEYSTATE_ISSUED) echo " selected"; echo">" . KEYSTATE_ISSUED . "</option>";
-						echo "    <option value=\"" . KEYSTATE_ACTIVATED . "\""; if ($keyData[$i][1] == KEYSTATE_ACTIVATED) echo " selected"; echo">" . KEYSTATE_ACTIVATED . "</option>";
-						echo "    <option value=\"" . KEYSTATE_USED . "\""; if ($keyData[$i][1] == KEYSTATE_USED) echo " selected"; echo">" . KEYSTATE_USED . "</option>";
+						echo "    <option value=\"" . KEYSTATE_UNISSUED . "\""; if ($keyData[$i]["Status"] == KEYSTATE_UNISSUED) echo " selected"; echo">" . KEYSTATE_UNISSUED . "</option>";
+						echo "    <option value=\"" . KEYSTATE_ISSUED . "\""; if ($keyData[$i]["Status"] == KEYSTATE_ISSUED) echo " selected"; echo">" . KEYSTATE_ISSUED . "</option>";
+						echo "    <option value=\"" . KEYSTATE_ACTIVATED . "\""; if ($keyData[$i]["Status"] == KEYSTATE_ACTIVATED) echo " selected"; echo">" . KEYSTATE_ACTIVATED . "</option>";
+						echo "    <option value=\"" . KEYSTATE_USED . "\""; if ($keyData[$i]["Status"] == KEYSTATE_USED) echo " selected"; echo">" . KEYSTATE_USED . "</option>";
 						echo "  </select>";
 						echo "  </div>\n";
 						

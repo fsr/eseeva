@@ -2,30 +2,28 @@
 //============================================================================
 // Name        : analysis.php
 // Author      : Patrick Reipschläger, Lucas Woltmann
-// Version     : 0.5
-// Date        : 08-2013
+// Version     : 1.0
+// Date        : 01-2017
 // Description : Analysis a ESE Evaluation log file. The file that is analysed
 //               may be passed as parameter with the URL.
 //============================================================================
 	include_once 'libs/formLib.php';
 	include_once 'libs/questionnaireLib.php';
-	include_once 'libs/loggingLib.php';
+	include_once 'libs/dbLib.php';
     include_once 'libs/chartLib.php';
 	
 	// variables for the log data
 	$questionData;
 	$tutorData;
 	$commentData;
-	// Default log file is the student log file defined in 'loggingLib.php'
-	$logFile = STUDENTLOGFILE;
+	// Default log file is the student log file defined in 'dbLib.php'
+	$logFile = LOGDB;
 	// if a logFile parameter has been passed in the URL, than that value will
 	// be used instead of the default value (with the added folder name)
 	if (isset($_GET["logFile"]))
-		$logFile = "logs/" . $_GET["logFile"];
-	// read the existing log file, if there is no existing log file, the RadLogFile
-	// function guarantees the initialization of the log variables, which will
-	// result in the same outcome as if an empty log file is read	
-	ReadLogFile($logFile, $questionData, $tutorData, $commentData);
+		$logFile = "db/" . $_GET["logFile"];
+	// read the database
+	ReadLogDatabase($logFile, 1, $questionData, $tutorData, $commentData);
 ?>
 <!DOCTYPE html>
 <html>
