@@ -59,7 +59,7 @@
 		$handle = new SQLite3($fileName);
 		if (!$handle)
 			return false;
-		$handle->exec("DROP TABLE answers;");
+		$handle->exec("DROP TABLE IF EXISTS answers;");
 		$handle->exec("CREATE TABLE IF NOT EXISTS 'answers'(KeyId text primary key,Status text,Student int,Answer);");
 		$keys = GenerateKeys($keyAmount);
 		$count = count($keys);
@@ -216,7 +216,7 @@
 			return false;
 
 		//secure deleting by checking if key has been uesed already
-		$stmt = $handle->prepare("DELETE FROM answers WHERE KeyId=:keyid;");
+		$stmt = $handle->prepare("DELETE FROM answers WHERE KeyId=:keyid AND Answer IS NULL;");
 		if ($stmt)
         {
             $stmt->bindValue(':keyid', $key, SQLITE3_TEXT);
