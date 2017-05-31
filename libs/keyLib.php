@@ -16,7 +16,7 @@
 	define ("KEYSTATE_ISSUED", "issued");
 	define ("KEYSTATE_ACTIVATED", "activated");
 	define ("KEYSTATE_USED", "used");
-	
+
 	/**
 	 * Generates a key from the specified hash value.
 	 *
@@ -55,6 +55,36 @@
 	 * @param string $fileName The name of the key database that should be created.
 	 */
 	function CreateKeys($keyAmount, $fileName)
+	{
+		$handle = new SQLite3($fileName);
+		if (!$handle)
+			return false;
+		$handle->exec("DROP TABLE answers;");
+		$handle->exec("CREATE TABLE IF NOT EXISTS 'answers'(KeyId text primary key,Status text,Student int,Answer);");
+		$keys = GenerateKeys($keyAmount);
+		$count = count($keys);
+		
+		for ($i = 0; $i < $count; $i++)
+		{
+			$stmt = $handle->prepare("INSERT INTO answers (KeyId, Status) VALUES (:key,:status);");
+			if ($stmt)
+	        {
+	            $stmt->bindValue(':key', $keys[$i], SQLITE3_TEXT);
+	            $stmt->bindValue(':status', KEYSTATE_UNISSUED, SQLITE3_TEXT);
+				$result = $stmt->execute();
+	        }
+	        else
+	        {
+	            $handle->close(); 
+	            return false;
+	        }
+    	}
+
+		$handle->close();
+		return true;
+	}
+
+	function AppendKeys($keyAmount, $fileName)
 	{
 		$handle = new SQLite3($fileName, SQLITE3_OPEN_READWRITE);
 		if (!$handle)
@@ -186,7 +216,7 @@
 			return false;
 
 		//secure deleting by checking if key has been uesed already
-		$stmt = $handle->prepare("DELETE FROM answers WHERE KeyId=:keyid AND Answer!=NULL;");
+		$stmt = $handle->prepare("DELETE FROM answers WHERE KeyId=:keyid;");
 		if ($stmt)
         {
             $stmt->bindValue(':keyid', $key, SQLITE3_TEXT);

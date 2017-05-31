@@ -31,8 +31,9 @@
 			$i = 0;
 			while(isset($_POST["keyIndex" . $i]))
 			{
-				if (isset($_POST["keyDelete" . $i]))
-					DeleteKey($keyFile, $_POST["keyCode" . $i]);
+				if (isset($_POST["keyDelete" . $i])){
+					$delete = DeleteKey($keyFile, $_POST["keyCode" . $i]);
+				}
 				else
 					SetKeyState($keyFile, $_POST["keyCode" . $i], $_POST["keyState" . $i]);
 				$i++;
@@ -52,7 +53,7 @@
 		{
 			$amount = $_POST["keyAmount"];
 			$keyFile = $_POST["keyFile"];
-			CreateKeys($amount, $keyFile);
+			AppendKeys($amount, $keyFile);
 			$keyData = ReadKeys($keyFile);
 		}
 		else

@@ -37,7 +37,7 @@
 	session_start();
 	$formState = STATE_ACTION_NEWCODE;
 	$keyCode = "";
-	$keyData = ReadKeyFile(KEYFILE);
+	$keyData = ReadKeys(KEYFILE);
 	
 	// if the variable is set, the form has been posted to itself
 	// if the submission ids of the post and the form don't match, the
@@ -55,8 +55,9 @@
 			$keyCode = $_POST["keyCode"];
 			//$keyData = ReadKeyFile(KEYFILE);
 			// if no action was performed on the entered key, simply display its state
-			if (!isset($_POST["action"]))
-				$formState = KeyStateToFormState(GetKeyState($keyData, $_POST["keyCode"]));
+			if (!isset($_POST["action"])){
+				$formState = KeyStateToFormState(GetKeyState(KEYFILE, $_POST["keyCode"]));
+			}
 			else
 			{
 				// otherwise set the state of the form to the action that should be performed
@@ -65,8 +66,8 @@
 				// on the key and if the action was successful save the key file
 				if ($formState != STATE_ACTION_NEWCODE)
 				{
-					if (SetKeyState($keyData, $keyCode, FormStateToKeyState($formState)))
-						WriteKeyFile(KEYFILE, $keyData);
+					if (SetKeyState(KEYFILE, $keyCode, FormStateToKeyState($formState)))
+						SetKeyState(KEYFILE, $keyCode, FormStateToKeyState($formState));
 					else
 						$formState($STATE_ACTION_FAILED);
 					$_POST["action"] = STATE_ACTION_NEWCODE;
@@ -205,11 +206,11 @@
 		echo "	<div class=\"col-6\">\n";
 		echo "		<select class=\"form-control\" id=\"keyCode\" name=\"keyCode\" required>\n";
 		foreach ($keyData as $key => $value) {
-			echo "			<option value=\"". $value[0] ."\" ";
-			if ($keyCode != "" && $keyCode == $value[0]) {
+			echo "			<option value=\"". $value['KeyId'] ."\" ";
+			if ($keyCode != "" && $keyCode == $value['KeyId']) {
 				echo "selected=\"selected\"";
 			}
-			echo ">".$value[0]."</option>\n";
+			echo ">".$value['KeyId']."</option>\n";
 		}
 		echo "      </select>\n";
 		//echo "		<input class=\"form-control\" type=\"text\" id=\"keyCode\" name=\"keyCode\" value=\"" . $keyCode . "\" required";
