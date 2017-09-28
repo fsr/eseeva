@@ -23,7 +23,7 @@
 #------------------------------------------------
 
 # -- Header ---
-headline; Headline; ESE 2016
+headline; Headline; ESE 2017
 
 # -- personal Code --
 # this is important and should stay so the student can identify himself to the system and receive his gift later on

@@ -13,7 +13,7 @@
 		<div class="container">
 			<?php
 				CreateHeadline("ESE Evaluation Index Page");
-				CreateLink("Student Evaluation Questionnaire", "index.php");
+				CreateLink("Student Evaluation Questionnaire", "student_questionnaire.php");
 				CreateLink("Tutor Evaluation Questionnaire", "tutor_questionnaire.php");
 				CreateLink("Key Control Panel", "keyControlPanel.php");
 				CreateLink("Key Overview", "keyTable.php");
