@@ -70,7 +70,7 @@
 			if ($stmt)
 	        {
 	            $stmt->bindValue(':key', $keys[$i], SQLITE3_TEXT);
-	            $stmt->bindValue(':status', KEYSTATE_UNISSUED, SQLITE3_TEXT);
+	            $stmt->bindValue(':status', KEYSTATE_ISSUED, SQLITE3_TEXT);
 				$result = $stmt->execute();
 	        }
 	        else
@@ -98,7 +98,7 @@
 			if ($stmt)
 	        {
 	            $stmt->bindValue(':key', $keys[$i], SQLITE3_TEXT);
-	            $stmt->bindValue(':status', KEYSTATE_UNISSUED, SQLITE3_TEXT);
+	            $stmt->bindValue(':status', KEYSTATE_ISSUED, SQLITE3_TEXT);
 				$result = $stmt->execute();
 	        }
 	        else
