@@ -20,7 +20,7 @@
 	if (isset($_GET["keyFile"]))
 		$keyFile = $_GET["keyFile"];
 	// holds the key data, generated from the key file
-	$keyData = ReadKeyFile($keyFile);
+	// $keyData = ReadKeyFile($keyFile);
 	// the group names and rooms for Monday and their start times for Tuesday, removes "Nicht am Tutorium teilgenommen"
 	$patrons = ReadPatronsFile(PATRONS);
 	array_splice($patrons, 0, 1);
@@ -36,9 +36,28 @@
 	<body>
 		<div class="container">
 <?php
-for ($i = 0; $i < count($keyData); $i++)
+for ($i = 0; $i < 400; $i++)
 	{
-		$pno = $i%(count(array_keys($patrons)));
+		$pno = $i%(count(array_keys($patrons)) - 1);
+		$patron_name = array_keys($patrons)[$pno];
+		?>
+			<div class="ticket">
+				<div class="patron"><?php echo $patron_name; ?></div>
+				<div class="tickettext">
+					<div class="ticketimg"><img src="css/ese-logo.png"/></div>
+					<div class="room">Tutorium in <br><strong><?php echo $patrons[$patron_name][1]; ?></strong></div>
+					<div class="time">
+						<?php
+							echo "Einschreibestart Mittwoch <br><strong>".$patrons[$patron_name][2]." Uhr</strong>";
+						?>
+					</div>
+				</div>
+			</div>
+		<?php
+	}
+for ($i = 0; $i < 50; $i++)
+	{
+		$pno = 16;//$i%(count(array_keys($patrons)));
 		$patron_name = array_keys($patrons)[$pno];
 		?>
 			<div class="ticket">
@@ -49,7 +68,7 @@ for ($i = 0; $i < count($keyData); $i++)
 					<div class="time">
 						<?php
 							// don't display start date if there is none (Master case)
-							echo ($patrons[$patron_name][2]=="") ? "&nbsp;" : "Einschreibestart Dienstag <strong>".$patrons[$patron_name][2]." Uhr</strong>";
+							echo "&nbsp;";
 						?>
 					</div>
 				</div>

@@ -6,33 +6,34 @@ body {
 }
 
 .container {
-	width:20cm;
+	width: 20cm;
 	margin: 0mm;
 	padding: 0mm;
 }
 
 .ticket {
-	height: 4cm;
+	height: 4.9cm;
 /*	border: 1px dotted #ccc;*/
 	float: left;
 	padding: 3mm;
 	margin-left: 3mm;
-	min-width: 5.6cm;
+	min-width: 8.9cm;
 	/*page-break-inside: avoid;*/
 }
 
 .tickettext {
 	/*float: left;*/
+	margin-top: 7mm;
 }
 
 .ticketimg {
 	float: right;
-	margin: -1mm 0 0 0;
+	margin: 1mm 0 0 0;
 	padding: 0px;
 }
 
 .ticketimg img {
-	height: 2cm;
+	height: 2.7cm;
 	margin: 0px;
 	padding: 0px;
 }
@@ -56,7 +57,7 @@ img.tutorticketimg {
 }
 
 .room, .time {
-	font-size: 10pt;
+	font-size: 12pt;
 	width: 60%;
 	text-align: left;
 }
