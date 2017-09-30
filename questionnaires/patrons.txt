@@ -4,18 +4,18 @@ Nicht am Tutorium teilgenommen;;
 Edsger W. Dijkstra; APB/E005; 09:00
 Kurt Gödel; APB/E006; 09:10
 Konrad Zuse; APB/E007; 09:20
-Tim Berners-Lee; APB/E008; 09:30
-John von Neumann; APB/E009; 09:40
-Dennis Ritchie; APB/E010; 09:50
+Tim Berners-Lee; APB/E009; 09:30
+John von Neumann; APB/E010; 09:40
+Dennis M. Ritchie; WIL/C205; 09:50
 Alan Turing; WIL/C206; 10:00
-Ada Lovelace; WIL/C106; 10:10
-Grace Hopper; WIL/C104; 10:20
-Richard M. Stallman; WIL/C103; 10:30
-Linus Torvalds; WIL/C102; 10:40
-Noam Chomsky; WIL/C105; 10:50
-Christiane Floyd; WIL/C205; 11:00
-Stephen A. Cook; WIL/C204; 11:10
-Ken Thompson; GER/A185; 11:20
-Donald Ervin Knuth; GER/A252; 11:30
-Master Inf/MInf; APB/E023; 
-Master Inf/MInf; APB/E023; 
+Ada Lovelace; WIL/C203; 10:10
+Grace Hopper; WIL/A221; 10:20
+Richard M. Stallman; WIL/C107; 10:30
+Linus Torvalds; WIL/B321; 10:40
+Noam Chomsky; WIL/A317; 10:50
+Christiane Floyd; REC/C118; 11:00
+Stephen A. Cook; REC/D16; 11:10
+Ken Thompson; REC/B214; 11:20
+Donald Ervin Knuth; REC/C213; 11:30
+Master Inf/MInf; APB/E023;
+Master Inf/MInf; APB/E023;
