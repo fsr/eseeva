@@ -18,6 +18,7 @@
 				CreateLink("Key Control Panel", "keyControlPanel.php");
 				CreateLink("Key Overview", "keyTable.php");
 				CreateLink("Evaluation analysis page", "analysis.php");
+				CreateLink("Tut Evaluation analysis page", "analysisTut.php");
 				CreateLink("Generate tickets for Monday", "patronGen.php");
 			?>
 		</div>

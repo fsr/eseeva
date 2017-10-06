@@ -36,11 +36,16 @@ legend; Legend;
 planingRating; Question; Wie fandest du die Planung der ESE?
 tutoriumPreparation; Question; Zufriedenheit mit den Tutorien und deren Vorbereitung
 paperChaseRating; Question; Wie fandest du die Schnitzeljagd?
+paperChaseFairRating; Question; Fandest du die Schnitzeljagd fair?
 eseGameRating; Question; Wie ist das ESE-Spiel gelaufen?
 inetPresenceRating; Question; Beurteilung des Internet-Auftritts
 communicationRating; Question; Zusammenarbeit und Kommunikation der Helfer
 testRegisterRating; Question; Ablauf der Übungseinschreibung
+himmelRating; Question; Wie fandest du den Himmel?
+accessoireHimmelRatin; Question; Wie fandest du den Kaktus, den Totenkopf und die Lichterketten im Himmel?
+requiredEinschreibungName; Question; Wie schlimm fandest du das Sebastian die Namensfelder im Einschreibesystem nicht required gesetzt hat?
+tutorSchool; Question; Wie fandest du die Tutorenschulungen vor den Veranstaltungen?
 generalEseRating; Question; Was hältst du von der ESE allgemein?
 
 # -- Comments --
-comment; Comment; Kommentar:;
+comment; Comment; Namensidee für Bunten Nachmittag:;
