@@ -1,26 +1,26 @@
 # ESE Evaluation Questionnaire for Students
 # -----------------------------------------------
 # Syntax:
-#	{id}; {type}; {parameters}
+#   {id}; {type}; {parameters}
 #
-#	{id} identifier for that entry. 
-#		 IMPORTANT: The id has to be UNIQUE for every entry
-#	{type} can be one of the following (including parameters):
-#		Headline	= 	The headline that is displayed for the questionnaire. There should only be one header.
-#						Takes the text of the header a parameter
-#		TextBox		=	A text box where the student has to enter a value.
-#						Takes the label of the text box as a parameter
-#		Legend		=	The legend that describes the rating system. There should be at least on legend per form.
-#						Takes no parameters
-#		Question	=	A question that has to be answered by the student.
-#						Takes the question as a parameter.
-#		Comment		=	A box for comments (It is assumed there is only one such box)
-#						Takes the label of the comment box as a parameter.
+#   {id} identifier for that entry. 
+#        IMPORTANT: The id has to be UNIQUE for every entry
+#   {type} can be one of the following (including parameters):
+#       Headline    =   The headline that is displayed for the questionnaire. There should only be one header.
+#                       Takes the text of the header a parameter
+#       TextBox     =   A text box where the student has to enter a value.
+#                       Takes the label of the text box as a parameter
+#       Legend      =   The legend that describes the rating system. There should be at least on legend per form.
+#                       Takes no parameters
+#       Question    =   A question that has to be answered by the student.
+#                       Takes the question as a parameter.
+#       Comment     =   A box for comments (It is assumed there is only one such box)
+#                       Takes the label of the comment box as a parameter.
 #       DropDown    =   Dropdown menu for the tutor
 #
-#	If fundamental changes are made (other than changing strings or adding/removing questions)
-#	The files 'student_questionnaire.php' and 'student_analysis' should be checked for validity,
-#	because they rely on some of the ids being present
+#   If fundamental changes are made (other than changing strings or adding/removing questions)
+#   The files 'student_questionnaire.php' and 'student_analysis' should be checked for validity,
+#   because they rely on some of the ids being present
 #------------------------------------------------
 
 # -- Header ---
@@ -31,34 +31,130 @@ headline; Headline; ESE 2017
 code; TextBox; Persönlicher Code:
 
 # -- Name of the tutor --
-tutorName; DropDown; Wer war dein Namenspatron?;
+#tutorName; DropDown; Wer war dein Namenspatron?;
 
 # -- Legend --
 legend; Legend;
 
 # -- Begin Questions --
-tutorRating; Question; Wie fandest du das Tutorium?
-meetingRating; Question; Wie hat dir der Kennenlernspieleabend gefallen?
-meetingSeminar; Question; Wie war das Seminargruppentreffen?
-speechCourseGuidance; Question; Wie war der Vortrag zur Studienberatung und -organisation?
-#speechMicrosoft; Question; Wie war der Microsoft-(MSDNAA)-Vortrag?
-paperChaseRating; Question; Wie fandest du die Schnitzeljagd?
-clubbingRating; Question; Wie hat dir die Clubtour gefallen?
-sppechCoditermination; Question; Wie war der Vortrag zur studentischen Mitbestimmung?
-speechAbroadSemester; Question; Wie war der Vortrag zum Auslandsstudium?
-speechTudias; Question; Wie war der Vortrag von TUDIAS?
-eseGameRating; Question; Wie hat dir das ESE-Spiel gefallen?
-eseGameEvening; Question; Wie fandest du den Spieleabend?
-eseBreakfast; Question; Wie gefiel dir das Frühstück?
-movieNightRating; Question; Wie hat dir der Kino-Abend gefallen?
-profIntroRating; Question; Wie war die Professorenvorstellung?
-#bowlingNightRating; Question; Wie war der Billiard/Bowling-Abend für dich?
-testRegisterRating; Question; Wie fandest du die Übungseinschreibung?
-giftBags; Question; Wie fandest du die Tüten?
-ZIH; Question; Wie hilfreich fandest du die ZIH-Broschüre?
-noPanic; Question; Wie hat dir die NoPanic gefallen?
-inetPresenceRating; Question; Beurteilung des Internet Auftritts
-generalEseRating; Question; Was hältst du von der ESE allgemein?
+#questionid; Question; Questiontext
 
-# -- Comments --
-comment; Comment; Kommentar:;
+headlineEroeffnung; Headline; Eröffnungsveranstaltung und Tutorien
+eroeffnungRedeStudInhalt; Question; Die Studentische Motivationsrede zur Eröffnungsveranstaltung was inhaltlich optimal.
+eroeffnungRedeStudLaenge; Question; Die Studentische Motivationsrede zur Eröffnungsveranstaltung was zeitlich optimal.
+eroeffnungRedeAßmannInhalt; Question; Die Rede des Dekans Prof. Aßmann zur Eröffnungsveranstaltung war inhaltlich optimal.
+eroeffnungRedeAßmannLaenge; Question; Die Rede des Dekans Prof. Aßmann zur Eröffnungsveranstaltung war zeitlich optimal.
+eroeffnungRedeWeberInhalt; Question; Die Rede des Studiendekans Prof. Weber zur Eröffnungsveranstaltung war inhaltlich optimal.
+eroeffnungRedeWeberLaenge; Question; Die Rede des Studiendekans Prof. Weber zur Eröffnungsveranstaltung war zeitlich optimal.
+eroeffnungESEPreview; Question; Der Kurzüberblick über die ESE zur Eröffnungsveranstaltung war inhaltlich optimal.
+eroeffnungTutorienEinteilung; Question; Die Einteilung in die Tutorien zur Eröffnungsveranstaltung war optimal.
+eroeffnungGeneral; Question; Mein Gesamteindruck der Eröffnungsveranstaltung
+eroeffnungComment; Comment; Das habe ich Außerdem zur Eröffnungsveranstaltung zu sagen:
+tutorienInhalt; Question; Das Tutorium war inhaltlich optimal.
+tutorienLaenge; Question; Das Tutorium war zeitlich optimal.
+tutorienKompetenz; Question; Die Tutoren des Tutoriums haben einen kompetenten Eindruck vermittelt.
+tutorienComment; Comment; Das habe ich außerdem zum Tutorium zu sagen:
+
+headlineBunterNachmittag; Headline; Bunter Nachmittag
+# TODO: more Questions!
+bunterNachmittagGeneral; Question; Mein Gesamteindruck des Bunten Nachmittags
+bunterNachmittagName; Comment; Namensvorschlag für den Bunten Nachmittag:
+
+headlineSpieleabend; Headline; Kennenlernspieleabend
+spieleabendGeneral; Question; Mein Gesamteindruck des Kennenlernspieleabends:
+spieleabendGrillgutAuswahl; Question; Die Auswahlmöglichkeiten des Grillguts waren optimal.
+spieleabendGrillgutQualityWurst; Question; Die Qualität der Grillwürstchen war optimal.
+spieleabendGrillgutQualitySteak; Question; Die Qualität des Steaks war optimal.
+spieleabendGrillgutQualityKaese; Question; Die Qualität des Grillkäses war optimal.
+spieleabendGrillgutQualityWedges; Question; Die Qualität der Kartoffelecken war optimal.
+spieleabendGrillgutGetränke; Question; Die Getränkeauswahl zum Grillgut war optimal.
+
+headlineWanderung; Headline; Wanderung
+wanderungLaenge; Question; Die Länge der Wanderung war optimal.
+wanderungSchwierigkeit; Question; Die Schwierigkeit der Wanderung (Steigung etc.) war optimal.
+wanderungGespraech; Question; Die Wanderung bat genügend Raum und Zeit für Gespräche.
+wanderungRoute; Question; Die Landschaftlichen Aspekte der Wanderung gefielen mir.
+wanderungGeneral; Question; Mein Gesamteindruck der Wanderung
+wanderungComment; Comment; Das habe ich außerdem zur Wanderung zu sagen:
+
+headlineClubtour; Headline; Clubtour
+clubtourGruppengroesse; Question; Die Gruppengröße war optimal.
+clubtourGeschwindigkeitLang; Question; Die Verweilzeit in den Clubs war zu lang.
+clubtourGeschwindigkeitKurz; Question; Die Verweilzeit in den Clubs war zu kurz.
+clubtourGeneral; Question; Mein Gesamteindruck der Clubtour
+clubtourComment; Comment; Das habe ich außerdem zur Clubtour zu sagen:
+
+
+headlineEinschreibung; Headline; Einschreibung
+#TODO: more questions
+einschreibungKompetenz; Question; Der Einschreibungstutor hat einen Kompetenten Eindruck gemacht.
+einschreibungGeneral; Question; Mein Gesamteindruck der Einschreibung
+einschreibungComment; Comment; Das habe ich außerdem zur Einschreibung zu sagen:
+
+
+headlineKino; Headline; ESE-Kino
+kinoFilmauswahl; Question; Die Filmauswahl für das Kino war optimal.
+kinoFilmgeheimnis; Question; Die Tatsache, dass der Film unbekannt war, empfand ich als nicht schlimm.
+kinoQualität; Question; Die Qualität des ESE-Kinos war optimal.
+KinoGeneral; Question; Mein Gesamteindruck des ESE-Kinos
+KinoComment; Comment; Das habe ich außerdem zum ESE-Kino zu sagen:
+
+
+headlineProf; Headline; Vorstellung der Lehrpersonen
+profBaumannBodirski; Question; Die Vorstellung von Prof. Baumann und Prof. Bodirski (Mathematik) war optimal.
+profThiele; Question; Die Vorstellung von Dr. Thiele (Datenbanken) war optimal.
+profHara; Question; Die Vorstellung von Dr. Hara (Rechnernetze) war optimal.
+profGoehringer; Question; Die Vorstellung von Prof. Göhringer (Adaptive Dynamische Systeme) war optimal.
+profDachselt; Question; Die Vorstellung von Prof. Dachselt (Multimediatechnologie) war optimal.
+profHaertig; Question; Die Vorstellung von Prof. Härtig (Betriebssysteme) war optimal.
+profStrufe; Question; Die Vorstellung von Prof. Strufe (Sicherheit) war optimal.
+profGumhold; Question; Die Vorstellung von Prof. Gumhold (Computergraphik) war optimal.
+profKroetzsch; Question; Die Vorstellung von Prof. Kroetzsch (Logik) war optimal.
+profModeration; Question; Die Moderation der Vorstellung der Lehrpersonen war optimal.
+profGeneral; Question; Mein Gesamteindruck der Vorstellung der Lehrpersonen
+profComment; Comment; Das habe ich außerdem zur Vorstellung der Lehrpersonen zu sagen:
+
+
+headlineSchnitzeljagd; Headline; Schnitzeljagd
+schnitzeljagdGroesse; Question; Die Gruppengröße war optimal.
+schnitzeljagdLaenge; Question; Die länge der Schnitzeljagd war optimal.
+schnitzeljagdfairness; Question; Die Schnitzeljagd erschien mir fair.
+schnitzeljagdGeneral; Question; Mein Gesamteindruck der Schnitzeljagd
+schnitzeljagdComment; Comment; Das habe ich außerdem zur Schnitzeljagd zu sagen:
+
+
+headlineVortraege; Headline; Vorträge zum Studium
+#TODO: gab es weitere Vorträge?
+vortraegeStudium; Question; Der Vortrag zu Studienangelegenheiten und -Organisation (Mittwoch) war optimal.
+vortraegeTUDIAS; Question; Der Vortrag zu TUDIAS war optimal.
+vortraegeAuslandsstudium; Question; Der Vortrag zum Auslandsstudium war optimal.
+vortraegeFSR; Question; Der Vortrag zur Studentischen Mitbestimmung (zum FSR) war optimal.
+vortraegeASCII; Question; Der Vortrag zum Studentencafe ASCII war optimal.
+vortraegeGeneral; Question; Mein Gesamteindruck der Vorträge zum Studium
+vortraegeComment; Comment; Das habe ich außerdem zu den Vorträgen zum Studium zu sagen:
+
+
+headlineESESpiel; Headline; ESE Spiel
+#TODO: more questions
+esespielGeneral; Question; Mein Gesamteindruck des ESE Spiels
+esespielComment; Comment; Das habe ich außerdem zum ESE Spiel zu sagen:
+
+
+headlineStadtfuehrung; Headline; Stadtführung
+#TODO: more questions
+stadtfuehrungGeneral; Question; Mein Gesamteindruck der Stadtführung
+stadtfuehrungComment; Comment; Das habe ich außerdem zur Stadtführung zu sagen:
+
+
+headlineFruehstueck; Headline; Frühstück
+#TODO: more questions
+fruehstueckAuswahl; Question; die Auswahl zum Frühstück war optimal.
+fruehstueckGeneral; Question; Mein Gesamteindruck des Frühstücks
+fruehstueckComment; Comment; Das habe ich außerdem zum Frühstück zu sagen:
+
+
+headlineGeneral; Headline; Allgemeines
+jemandDa; Question; Ich hatte das gefühl, dass immer jemand für mich da war.
+tutorenVerhalten; Das Verhalten der ESE Tutoren empfand ich als angemessen.
+generalGeneral; Question; Mein gesamteindruck der ESE
+generalComment; Comment; Das möchte ich außerdem loswerden:
