@@ -169,7 +169,7 @@
 	 * @param string $value The comment that should be displayed within the comment box.
 	 *                      The default value is no text.
 	 */
-	function CreateCommentBox($label, $id, $value = "")
+	function CreateCommentBox($label, $id, $value)
 	{
 		CreateRowHeader();
 		echo "	<div class=\"col-sm-8\">\n";
@@ -238,6 +238,64 @@
 			if (isset($formData[$id]))
 				$value = $formData[$id];
 			CreateQuestion($entry[1], $id, $value);
+		}
+	}
+	/**
+	 * Echos a range of new divisions with switching row styles for all questions that
+	 * the specified questionnaire data contains. Only the questions are created, nothing else.
+	 *
+	 * @param array $questionnaire The questionnaire data that is used to build the form.
+	 *                             Passed by reference.
+	 * @param array $formData The list of all form elements and their values. This should
+	 *                        simply be the $_POST array that was submitted.
+	 *                        Passed by reference.
+	 */
+	function CreateAllCommentElements(&$questionnaire, &$formData)
+	{	
+		foreach($questionnaire as $id => $entry)
+		{
+			$type = $entry[0];
+			if ($type != Q_COMMENT)
+				continue;
+			$value = "";
+			if (isset($formData[$id]))
+				$value = $formData[$id];
+			CreateCommentBox($entry[1], $id, $value);
+		}
+	}
+	/**
+	 * Echos a range of new divisions with switching row styles for all questions that
+	 * the specified questionnaire data contains. Only the questions are created, nothing else.
+	 *
+	 * @param array $questionnaire The questionnaire data that is used to build the form.
+	 *                             Passed by reference.
+	 * @param array $formData The list of all form elements and their values. This should
+	 *                        simply be the $_POST array that was submitted.
+	 *                        Passed by reference.
+	 */
+	function CreateEvaForm(&$questionnaire, &$formData)
+	{	
+		foreach($questionnaire as $id => $entry)
+		{
+			$type = $entry[0];
+			$value = "";
+			if (isset($formData[$id]))
+				$value = $formData[$id];
+			if ($type == Q_HEADLINE)
+				CreateHeadline($entry[1]);
+			if ($type == Q_LEGEND)
+				CreateLegend();
+			else if ($type == Q_TEXTBOX)
+				CreateTextBox($entry[1], $id, $value);
+			else if ($type == Q_QUESTION)
+				CreateQuestion($entry[1], $id, $value);
+			else if ($type == Q_COMMENT)
+				CreateCommentBox($entry[1], $id, $value);
+			else if ($type == Q_DROPDOWN)
+			{
+				$value = $formData;
+				CreateDropDownMenu($entry[1], $id, $value);
+			}
 		}
 	}
 	/**
