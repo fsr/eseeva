@@ -40,8 +40,8 @@ legend; Legend;
 #questionid; Question; Questiontext
 
 headlineEroeffnung; Headline; Eröffnungsveranstaltung und Tutorien
-eroeffnungRedeStudInhalt; Question; Die Studentische Motivationsrede zur Eröffnungsveranstaltung was inhaltlich optimal.
-eroeffnungRedeStudLaenge; Question; Die Studentische Motivationsrede zur Eröffnungsveranstaltung was zeitlich optimal.
+eroeffnungRedeStudInhalt; Question; Die studentische Motivationsrede zur Eröffnungsveranstaltung war inhaltlich optimal.
+eroeffnungRedeStudLaenge; Question; Die studentische Motivationsrede zur Eröffnungsveranstaltung war zeitlich optimal.
 eroeffnungRedeAßmannInhalt; Question; Die Rede des Dekans Prof. Aßmann zur Eröffnungsveranstaltung war inhaltlich optimal.
 eroeffnungRedeAßmannLaenge; Question; Die Rede des Dekans Prof. Aßmann zur Eröffnungsveranstaltung war zeitlich optimal.
 eroeffnungRedeWeberInhalt; Question; Die Rede des Studiendekans Prof. Weber zur Eröffnungsveranstaltung war inhaltlich optimal.
@@ -49,7 +49,7 @@ eroeffnungRedeWeberLaenge; Question; Die Rede des Studiendekans Prof. Weber zur 
 eroeffnungESEPreview; Question; Der Kurzüberblick über die ESE zur Eröffnungsveranstaltung war inhaltlich optimal.
 eroeffnungTutorienEinteilung; Question; Die Einteilung in die Tutorien zur Eröffnungsveranstaltung war optimal.
 eroeffnungGeneral; Question; Mein Gesamteindruck der Eröffnungsveranstaltung
-eroeffnungComment; Comment; Das habe ich Außerdem zur Eröffnungsveranstaltung zu sagen:
+eroeffnungComment; Comment; Das habe ich außerdem zur Eröffnungsveranstaltung zu sagen:
 tutorienInhalt; Question; Das Tutorium war inhaltlich optimal.
 tutorienLaenge; Question; Das Tutorium war zeitlich optimal.
 tutorienKompetenz; Question; Die Tutoren des Tutoriums haben einen kompetenten Eindruck vermittelt.
@@ -87,7 +87,7 @@ clubtourComment; Comment; Das habe ich außerdem zur Clubtour zu sagen:
 
 headlineEinschreibung; Headline; Einschreibung
 #TODO: more questions
-einschreibungKompetenz; Question; Der Einschreibungstutor hat einen Kompetenten Eindruck gemacht.
+einschreibungKompetenz; Question; Der Einschreibungstutor hat einen kompetenten Eindruck gemacht.
 einschreibungGeneral; Question; Mein Gesamteindruck der Einschreibung
 einschreibungComment; Comment; Das habe ich außerdem zur Einschreibung zu sagen:
 
@@ -101,7 +101,7 @@ KinoComment; Comment; Das habe ich außerdem zum ESE-Kino zu sagen:
 
 
 headlineProf; Headline; Vorstellung der Lehrpersonen
-profBaumannBodirski; Question; Die Vorstellung von Prof. Baumann und Prof. Bodirski (Mathematik) war optimal.
+profBaumannBodirsky; Question; Die Vorstellung von Prof. Baumann und Prof. Bodirsky (Mathematik) war optimal.
 profThiele; Question; Die Vorstellung von Dr. Thiele (Datenbanken) war optimal.
 profHara; Question; Die Vorstellung von Dr. Hara (Rechnernetze) war optimal.
 profGoehringer; Question; Die Vorstellung von Prof. Göhringer (Adaptive Dynamische Systeme) war optimal.
@@ -117,7 +117,7 @@ profComment; Comment; Das habe ich außerdem zur Vorstellung der Lehrpersonen zu
 
 headlineSchnitzeljagd; Headline; Schnitzeljagd
 schnitzeljagdGroesse; Question; Die Gruppengröße war optimal.
-schnitzeljagdLaenge; Question; Die länge der Schnitzeljagd war optimal.
+schnitzeljagdLaenge; Question; Die Länge der Schnitzeljagd war optimal.
 schnitzeljagdfairness; Question; Die Schnitzeljagd erschien mir fair.
 schnitzeljagdGeneral; Question; Mein Gesamteindruck der Schnitzeljagd
 schnitzeljagdComment; Comment; Das habe ich außerdem zur Schnitzeljagd zu sagen:
@@ -128,7 +128,7 @@ headlineVortraege; Headline; Vorträge zum Studium
 vortraegeStudium; Question; Der Vortrag zu Studienangelegenheiten und -Organisation (Mittwoch) war optimal.
 vortraegeTUDIAS; Question; Der Vortrag zu TUDIAS war optimal.
 vortraegeAuslandsstudium; Question; Der Vortrag zum Auslandsstudium war optimal.
-vortraegeFSR; Question; Der Vortrag zur Studentischen Mitbestimmung (zum FSR) war optimal.
+vortraegeFSR; Question; Der Vortrag zur studentischen Mitbestimmung (zum FSR) war optimal.
 vortraegeASCII; Question; Der Vortrag zum Studentencafe ASCII war optimal.
 vortraegeGeneral; Question; Mein Gesamteindruck der Vorträge zum Studium
 vortraegeComment; Comment; Das habe ich außerdem zu den Vorträgen zum Studium zu sagen:
@@ -148,13 +148,13 @@ stadtfuehrungComment; Comment; Das habe ich außerdem zur Stadtführung zu sagen
 
 headlineFruehstueck; Headline; Frühstück
 #TODO: more questions
-fruehstueckAuswahl; Question; die Auswahl zum Frühstück war optimal.
+fruehstueckAuswahl; Question; Die Auswahl zum Frühstück war optimal.
 fruehstueckGeneral; Question; Mein Gesamteindruck des Frühstücks
 fruehstueckComment; Comment; Das habe ich außerdem zum Frühstück zu sagen:
 
 
 headlineGeneral; Headline; Allgemeines
-jemandDa; Question; Ich hatte das gefühl, dass immer jemand für mich da war.
+jemandDa; Question; Ich hatte das Gefühl, dass immer jemand für mich da war.
 tutorenVerhalten; Das Verhalten der ESE Tutoren empfand ich als angemessen.
-generalGeneral; Question; Mein gesamteindruck der ESE
+generalGeneral; Question; Mein Gesamteindruck der ESE
 generalComment; Comment; Das möchte ich außerdem loswerden:
