@@ -155,6 +155,8 @@
 			echo "			<div class=\"col-2\"><input class=\"form-control\" type=\"radio\" id=\"" . $id . $i . "\" name=\"" . $id . "\" value=\"" . $i . "\" required";
 			if ($value == $i)
 				echo " checked";
+			if ($i == 6)
+				echo " checked";
 			echo "/></div>\n";
 		}
 		echo "		</div>\n";
