@@ -1937,6 +1937,42 @@
     <relevance><![CDATA[((647633X26849X372646.NAOK == "Y"))]]></relevance>
    </row>
    <row>
+    <qid><![CDATA[372648]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26849]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[generaltutor]]></title>
+    <question><![CDATA[Spielst du mit dem Gedanken, im nächsten Jahr selbst ESE Tutor zu werden?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((647633X26849X372646.NAOK == "Y"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[372649]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26849]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[generaltutormotivation]]></title>
+    <question><![CDATA[Welche speziellen Punkte haben dich dazu bewogen, selbst die Tutorenschaft in betracht zu ziehen?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((647633X26849X372648.NAOK == "Y"))]]></relevance>
+   </row>
+   <row>
     <qid><![CDATA[372652]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
     <sid><![CDATA[647633]]></sid>
@@ -1948,7 +1984,7 @@
     <help/>
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
-    <question_order><![CDATA[2]]></question_order>
+    <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
@@ -2048,6 +2084,7 @@
    <fieldname>relevance</fieldname>
   </fields>
   <rows>
+   <!-- Eröffnung und Tutorien -->
    <row>
     <qid><![CDATA[372540]]></qid>
     <parent_qid><![CDATA[372539]]></parent_qid>
@@ -2228,6 +2265,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Bunter Nachmittag -->
    <!-- TODO: More Questions for Bunter Nachmittag -->
    <row>
     <qid><![CDATA[372557]]></qid>
@@ -2244,6 +2282,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Kennenlernspieleabend -->
    <row>
     <qid><![CDATA[372561]]></qid>
     <parent_qid><![CDATA[372560]]></parent_qid>
@@ -2289,6 +2328,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Grillgut bewertung -->
    <row>
     <qid><![CDATA[372566]]></qid>
     <parent_qid><![CDATA[372565]]></parent_qid>
@@ -2349,6 +2389,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Wanderung -->
    <row>
     <qid><![CDATA[372572]]></qid>
     <parent_qid><![CDATA[372571]]></parent_qid>
@@ -2409,6 +2450,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Clubtour -->
    <row>
     <qid><![CDATA[372576]]></qid>
     <parent_qid><![CDATA[372571]]></parent_qid>
@@ -2469,22 +2511,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
-   <!-- TODO: More Questions for Einschreibung -->
-   <row>
-    <qid><![CDATA[372588]]></qid>
-    <parent_qid><![CDATA[372587]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Mein Gesamteindruck der Einschreibung]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
+   <!-- Einschreibung -->
    <row>
     <qid><![CDATA[372589]]></qid>
     <parent_qid><![CDATA[372587]]></parent_qid>
@@ -2500,6 +2527,82 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <row>
+    <qid><![CDATA[372590]]></qid>
+    <parent_qid><![CDATA[372587]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26841]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Erklärung zum Outlook web client]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373591]]></qid>
+    <parent_qid><![CDATA[372587]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26841]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Die Erklärung zu jExam]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373592]]></qid>
+    <parent_qid><![CDATA[372587]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26841]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Die Erklärung zu OPAL]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373593]]></qid>
+    <parent_qid><![CDATA[372587]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26841]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Die Erklärung zu den Mailinglisten]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373588]]></qid>
+    <parent_qid><![CDATA[372587]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26841]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Mein Gesamteindruck der Einschreibung]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <!-- ESE-Kino -->
    <row>
     <qid><![CDATA[372594]]></qid>
     <parent_qid><![CDATA[372593]]></parent_qid>
@@ -2560,6 +2663,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Vorstellung der Lehrpersonen -->
    <row>
     <qid><![CDATA[372601]]></qid>
     <parent_qid><![CDATA[372600]]></parent_qid>
@@ -2620,6 +2724,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Schnitzeljagd -->
    <row>
     <qid><![CDATA[372608]]></qid>
     <parent_qid><![CDATA[372607]]></parent_qid>
@@ -2680,6 +2785,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Vorträge -->
    <!-- TODO: Were there more Vorträge? -->
    <row>
     <qid><![CDATA[372615]]></qid>
@@ -2771,17 +2877,18 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- ESE Spiel -->
    <row>
     <qid><![CDATA[372624]]></qid>
     <parent_qid><![CDATA[372623]]></parent_qid>
     <sid><![CDATA[647633]]></sid>
     <gid><![CDATA[26846]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
+    <title><![CDATA[SQ001]]></title>
     <question><![CDATA[Das Balancing]]></question>
     <help/>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
+    <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
@@ -2807,11 +2914,11 @@
     <sid><![CDATA[647633]]></sid>
     <gid><![CDATA[26846]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
+    <title><![CDATA[SQ003]]></title>
     <question><![CDATA[Die Gruppengröße]]></question>
     <help/>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
+    <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
@@ -2831,15 +2938,14 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
-   <!-- TODO: More Questions for ESE Spiel -->
    <row>
-    <qid><![CDATA[372629]]></qid>
+    <qid><![CDATA[372628]]></qid>
     <parent_qid><![CDATA[372623]]></parent_qid>
     <sid><![CDATA[647633]]></sid>
     <gid><![CDATA[26846]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ006]]></title>
-    <question><![CDATA[Mein Gesamteindruck des ESE Spiels]]></question>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Der Spaß]]></question>
     <help/>
     <other><![CDATA[N]]></other>
     <question_order><![CDATA[5]]></question_order>
@@ -2847,6 +2953,38 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <row>
+    <qid><![CDATA[372629]]></qid>
+    <parent_qid><![CDATA[372623]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26846]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Die Gruppeninteraktion]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373630]]></qid>
+    <parent_qid><![CDATA[372623]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26846]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Mein Gesamteindruck des ESE Spiels]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <!-- Stadtführung -->
+   <!-- TODO: More Questions for Stadtführung -->
    <row>
     <qid><![CDATA[372634]]></qid>
     <parent_qid><![CDATA[372632]]></parent_qid>
@@ -2877,7 +3015,6 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
-   <!-- TODO: More Questions for Stadtführung -->
    <row>
     <qid><![CDATA[372637]]></qid>
     <parent_qid><![CDATA[372632]]></parent_qid>
@@ -2893,6 +3030,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Frühstück -->
    <!-- TODO: More Questions for Frühstück -->
    <row>
     <qid><![CDATA[372641]]></qid>
@@ -2954,6 +3092,7 @@
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
+   <!-- Allgemein -->
    <!-- TODO: More Questions for Allgemein -->
    <row>
     <qid><![CDATA[372648]]></qid>
@@ -2961,11 +3100,11 @@
     <sid><![CDATA[647633]]></sid>
     <gid><![CDATA[26849]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Mein Gesamteindruck der ESE]]></question>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Ich hatte das Gefühl, dass immer jemand für mich da war]]></question>
     <help/>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
+    <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
@@ -2976,11 +3115,26 @@
     <sid><![CDATA[647633]]></sid>
     <gid><![CDATA[26849]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Ich hatte das Gefühl, dass immer jemand für mich da war]]></question>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Tutoren waren nett zu mir]]></question>
     <help/>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[372650]]></qid>
+    <parent_qid><![CDATA[372647]]></parent_qid>
+    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26849]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Mein Gesamteindruck der ESE]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
