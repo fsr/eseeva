@@ -17,7 +17,7 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[372539]]></qid>
+    <qid><![CDATA[373544]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -26,7 +26,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372539]]></qid>
+    <qid><![CDATA[373544]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -35,7 +35,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372539]]></qid>
+    <qid><![CDATA[373544]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -44,7 +44,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372539]]></qid>
+    <qid><![CDATA[373544]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -53,7 +53,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372550]]></qid>
+    <qid><![CDATA[373546]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -62,7 +62,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372550]]></qid>
+    <qid><![CDATA[373546]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -71,7 +71,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372550]]></qid>
+    <qid><![CDATA[373546]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -80,7 +80,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372550]]></qid>
+    <qid><![CDATA[373546]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -89,7 +89,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372556]]></qid>
+    <qid><![CDATA[373549]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -98,7 +98,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372556]]></qid>
+    <qid><![CDATA[373549]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -107,7 +107,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372556]]></qid>
+    <qid><![CDATA[373549]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -116,7 +116,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372556]]></qid>
+    <qid><![CDATA[373549]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -125,7 +125,16 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372560]]></qid>
+    <qid><![CDATA[373549]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Nicht Wahrgenommen]]></answer>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <sortorder><![CDATA[5]]></sortorder>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[373552]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -134,7 +143,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372560]]></qid>
+    <qid><![CDATA[373552]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -143,7 +152,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372560]]></qid>
+    <qid><![CDATA[373552]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -152,7 +161,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372560]]></qid>
+    <qid><![CDATA[373552]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -161,7 +170,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372565]]></qid>
+    <qid><![CDATA[373554]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -170,7 +179,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372565]]></qid>
+    <qid><![CDATA[373554]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -179,7 +188,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372565]]></qid>
+    <qid><![CDATA[373554]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -188,7 +197,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372565]]></qid>
+    <qid><![CDATA[373554]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -197,7 +206,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372565]]></qid>
+    <qid><![CDATA[373554]]></qid>
     <code><![CDATA[A5]]></code>
     <answer><![CDATA[Nicht gegessen]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -206,7 +215,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372571]]></qid>
+    <qid><![CDATA[373556]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -215,7 +224,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372571]]></qid>
+    <qid><![CDATA[373556]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -224,7 +233,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372571]]></qid>
+    <qid><![CDATA[373556]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -233,7 +242,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372571]]></qid>
+    <qid><![CDATA[373556]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -242,7 +251,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372579]]></qid>
+    <qid><![CDATA[373559]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -251,7 +260,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372579]]></qid>
+    <qid><![CDATA[373559]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -260,7 +269,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372579]]></qid>
+    <qid><![CDATA[373559]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -269,7 +278,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372579]]></qid>
+    <qid><![CDATA[373559]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -278,7 +287,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372587]]></qid>
+    <qid><![CDATA[373562]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -287,7 +296,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372587]]></qid>
+    <qid><![CDATA[373562]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -296,7 +305,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372587]]></qid>
+    <qid><![CDATA[373562]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -305,7 +314,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372587]]></qid>
+    <qid><![CDATA[373562]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -314,7 +323,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372593]]></qid>
+    <qid><![CDATA[373565]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -323,7 +332,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372593]]></qid>
+    <qid><![CDATA[373565]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -332,7 +341,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372593]]></qid>
+    <qid><![CDATA[373565]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -341,7 +350,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372593]]></qid>
+    <qid><![CDATA[373565]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -350,7 +359,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372600]]></qid>
+    <qid><![CDATA[373568]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -359,7 +368,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372600]]></qid>
+    <qid><![CDATA[373568]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -368,7 +377,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372600]]></qid>
+    <qid><![CDATA[373568]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -377,7 +386,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372600]]></qid>
+    <qid><![CDATA[373568]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -386,7 +395,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372607]]></qid>
+    <qid><![CDATA[373571]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -395,7 +404,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372607]]></qid>
+    <qid><![CDATA[373571]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -404,7 +413,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372607]]></qid>
+    <qid><![CDATA[373571]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -413,7 +422,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372607]]></qid>
+    <qid><![CDATA[373571]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -422,7 +431,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372614]]></qid>
+    <qid><![CDATA[373574]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -431,7 +440,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372614]]></qid>
+    <qid><![CDATA[373574]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -440,7 +449,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372614]]></qid>
+    <qid><![CDATA[373574]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -449,7 +458,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372614]]></qid>
+    <qid><![CDATA[373574]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -458,7 +467,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372623]]></qid>
+    <qid><![CDATA[373577]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -467,7 +476,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372623]]></qid>
+    <qid><![CDATA[373577]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -476,7 +485,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372623]]></qid>
+    <qid><![CDATA[373577]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -485,7 +494,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372623]]></qid>
+    <qid><![CDATA[373577]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -494,7 +503,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372632]]></qid>
+    <qid><![CDATA[373580]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -503,7 +512,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372632]]></qid>
+    <qid><![CDATA[373580]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -512,7 +521,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372632]]></qid>
+    <qid><![CDATA[373580]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -521,7 +530,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372632]]></qid>
+    <qid><![CDATA[373580]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -530,7 +539,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372640]]></qid>
+    <qid><![CDATA[373583]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -539,7 +548,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372640]]></qid>
+    <qid><![CDATA[373583]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -548,7 +557,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372640]]></qid>
+    <qid><![CDATA[373583]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -557,7 +566,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372640]]></qid>
+    <qid><![CDATA[373583]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -566,7 +575,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372647]]></qid>
+    <qid><![CDATA[373586]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[Optimal]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -575,7 +584,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372647]]></qid>
+    <qid><![CDATA[373586]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[Gut]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -584,7 +593,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372647]]></qid>
+    <qid><![CDATA[373586]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[Eher nicht so]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -593,7 +602,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372647]]></qid>
+    <qid><![CDATA[373586]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[Furchtbar]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -602,7 +611,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372654]]></qid>
+    <qid><![CDATA[373591]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[0 - 10€]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -611,7 +620,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372654]]></qid>
+    <qid><![CDATA[373591]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[10 - 20€]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -620,7 +629,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372654]]></qid>
+    <qid><![CDATA[373591]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[20 - 30€]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -629,7 +638,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372654]]></qid>
+    <qid><![CDATA[373591]]></qid>
     <code><![CDATA[A4]]></code>
     <answer><![CDATA[mehr als 30€]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -638,7 +647,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372656]]></qid>
+    <qid><![CDATA[373592]]></qid>
     <code><![CDATA[A1]]></code>
     <answer><![CDATA[0 - 50km]]></answer>
     <assessment_value><![CDATA[0]]></assessment_value>
@@ -647,7 +656,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372656]]></qid>
+    <qid><![CDATA[373592]]></qid>
     <code><![CDATA[A2]]></code>
     <answer><![CDATA[50 - 100km]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -656,7 +665,7 @@
     <scale_id><![CDATA[0]]></scale_id>
    </row>
    <row>
-    <qid><![CDATA[372656]]></qid>
+    <qid><![CDATA[373592]]></qid>
     <code><![CDATA[A3]]></code>
     <answer><![CDATA[mehr als 100km]]></answer>
     <assessment_value><![CDATA[1]]></assessment_value>
@@ -678,281 +687,326 @@
   </fields>
   <rows>
    <row>
-    <cid><![CDATA[68251]]></cid>
-    <qid><![CDATA[372539]]></qid>
+    <cid><![CDATA[68461]]></cid>
+    <qid><![CDATA[373544]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372537]]></cqid>
-    <cfieldname><![CDATA[647633X26836X372537]]></cfieldname>
+    <cqid><![CDATA[373543]]></cqid>
+    <cfieldname><![CDATA[111318X26942X373543]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68252]]></cid>
-    <qid><![CDATA[372549]]></qid>
+    <cid><![CDATA[68462]]></cid>
+    <qid><![CDATA[373545]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372537]]></cqid>
-    <cfieldname><![CDATA[647633X26836X372537]]></cfieldname>
+    <cqid><![CDATA[373543]]></cqid>
+    <cfieldname><![CDATA[111318X26942X373543]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68253]]></cid>
-    <qid><![CDATA[372550]]></qid>
+    <cid><![CDATA[68463]]></cid>
+    <qid><![CDATA[373546]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372537]]></cqid>
-    <cfieldname><![CDATA[647633X26836X372537]]></cfieldname>
+    <cqid><![CDATA[373543]]></cqid>
+    <cfieldname><![CDATA[111318X26942X373543]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68255]]></cid>
-    <qid><![CDATA[372556]]></qid>
+    <cid><![CDATA[68492]]></cid>
+    <qid><![CDATA[373547]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372555]]></cqid>
-    <cfieldname><![CDATA[647633X26837X372555]]></cfieldname>
+    <cqid><![CDATA[373543]]></cqid>
+    <cfieldname><![CDATA[111318X26942X373543]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68254]]></cid>
-    <qid><![CDATA[372558]]></qid>
+    <cid><![CDATA[68464]]></cid>
+    <qid><![CDATA[373549]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372555]]></cqid>
-    <cfieldname><![CDATA[647633X26837X372555]]></cfieldname>
+    <cqid><![CDATA[373548]]></cqid>
+    <cfieldname><![CDATA[111318X26943X373548]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68256]]></cid>
-    <qid><![CDATA[372560]]></qid>
+    <cid><![CDATA[68465]]></cid>
+    <qid><![CDATA[373550]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372559]]></cqid>
-    <cfieldname><![CDATA[647633X26838X372559]]></cfieldname>
+    <cqid><![CDATA[373548]]></cqid>
+    <cfieldname><![CDATA[111318X26943X373548]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68257]]></cid>
-    <qid><![CDATA[372562]]></qid>
+    <cid><![CDATA[68466]]></cid>
+    <qid><![CDATA[373552]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372559]]></cqid>
-    <cfieldname><![CDATA[647633X26838X372559]]></cfieldname>
+    <cqid><![CDATA[373551]]></cqid>
+    <cfieldname><![CDATA[111318X26944X373551]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68258]]></cid>
-    <qid><![CDATA[372571]]></qid>
+    <cid><![CDATA[68467]]></cid>
+    <qid><![CDATA[373553]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372570]]></cqid>
-    <cfieldname><![CDATA[647633X26839X372570]]></cfieldname>
+    <cqid><![CDATA[373551]]></cqid>
+    <cfieldname><![CDATA[111318X26944X373551]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68259]]></cid>
-    <qid><![CDATA[372577]]></qid>
+    <cid><![CDATA[68493]]></cid>
+    <qid><![CDATA[373554]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372570]]></cqid>
-    <cfieldname><![CDATA[647633X26839X372570]]></cfieldname>
+    <cqid><![CDATA[373551]]></cqid>
+    <cfieldname><![CDATA[111318X26944X373551]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68260]]></cid>
-    <qid><![CDATA[372579]]></qid>
+    <cid><![CDATA[68468]]></cid>
+    <qid><![CDATA[373556]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372578]]></cqid>
-    <cfieldname><![CDATA[647633X26840X372578]]></cfieldname>
+    <cqid><![CDATA[373555]]></cqid>
+    <cfieldname><![CDATA[111318X26945X373555]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68263]]></cid>
-    <qid><![CDATA[372591]]></qid>
+    <cid><![CDATA[68469]]></cid>
+    <qid><![CDATA[373557]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372586]]></cqid>
-    <cfieldname><![CDATA[647633X26841X372586]]></cfieldname>
+    <cqid><![CDATA[373555]]></cqid>
+    <cfieldname><![CDATA[111318X26945X373555]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68261]]></cid>
-    <qid><![CDATA[372585]]></qid>
+    <cid><![CDATA[68470]]></cid>
+    <qid><![CDATA[373559]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372578]]></cqid>
-    <cfieldname><![CDATA[647633X26840X372578]]></cfieldname>
+    <cqid><![CDATA[373558]]></cqid>
+    <cfieldname><![CDATA[111318X26946X373558]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68262]]></cid>
-    <qid><![CDATA[372587]]></qid>
+    <cid><![CDATA[68472]]></cid>
+    <qid><![CDATA[373560]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372586]]></cqid>
-    <cfieldname><![CDATA[647633X26841X372586]]></cfieldname>
+    <cqid><![CDATA[373558]]></cqid>
+    <cfieldname><![CDATA[111318X26946X373558]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68264]]></cid>
-    <qid><![CDATA[372593]]></qid>
+    <cid><![CDATA[68473]]></cid>
+    <qid><![CDATA[373562]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372592]]></cqid>
-    <cfieldname><![CDATA[647633X26842X372592]]></cfieldname>
+    <cqid><![CDATA[373561]]></cqid>
+    <cfieldname><![CDATA[111318X26947X373561]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68265]]></cid>
-    <qid><![CDATA[372598]]></qid>
+    <cid><![CDATA[68471]]></cid>
+    <qid><![CDATA[373563]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372592]]></cqid>
-    <cfieldname><![CDATA[647633X26842X372592]]></cfieldname>
+    <cqid><![CDATA[373561]]></cqid>
+    <cfieldname><![CDATA[111318X26947X373561]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68266]]></cid>
-    <qid><![CDATA[372600]]></qid>
+    <cid><![CDATA[68474]]></cid>
+    <qid><![CDATA[373565]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372599]]></cqid>
-    <cfieldname><![CDATA[647633X26843X372599]]></cfieldname>
+    <cqid><![CDATA[373564]]></cqid>
+    <cfieldname><![CDATA[111318X26948X373564]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68267]]></cid>
-    <qid><![CDATA[372605]]></qid>
+    <cid><![CDATA[68475]]></cid>
+    <qid><![CDATA[373566]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372599]]></cqid>
-    <cfieldname><![CDATA[647633X26843X372599]]></cfieldname>
+    <cqid><![CDATA[373564]]></cqid>
+    <cfieldname><![CDATA[111318X26948X373564]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68268]]></cid>
-    <qid><![CDATA[372607]]></qid>
+    <cid><![CDATA[68476]]></cid>
+    <qid><![CDATA[373568]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372606]]></cqid>
-    <cfieldname><![CDATA[647633X26844X372606]]></cfieldname>
+    <cqid><![CDATA[373567]]></cqid>
+    <cfieldname><![CDATA[111318X26949X373567]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68269]]></cid>
-    <qid><![CDATA[372612]]></qid>
+    <cid><![CDATA[68477]]></cid>
+    <qid><![CDATA[373569]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372606]]></cqid>
-    <cfieldname><![CDATA[647633X26844X372606]]></cfieldname>
+    <cqid><![CDATA[373567]]></cqid>
+    <cfieldname><![CDATA[111318X26949X373567]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68270]]></cid>
-    <qid><![CDATA[372614]]></qid>
+    <cid><![CDATA[68478]]></cid>
+    <qid><![CDATA[373571]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372613]]></cqid>
-    <cfieldname><![CDATA[647633X26845X372613]]></cfieldname>
+    <cqid><![CDATA[373570]]></cqid>
+    <cfieldname><![CDATA[111318X26950X373570]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68273]]></cid>
-    <qid><![CDATA[372630]]></qid>
+    <cid><![CDATA[68479]]></cid>
+    <qid><![CDATA[373572]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372622]]></cqid>
-    <cfieldname><![CDATA[647633X26846X372622]]></cfieldname>
+    <cqid><![CDATA[373570]]></cqid>
+    <cfieldname><![CDATA[111318X26950X373570]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68271]]></cid>
-    <qid><![CDATA[372621]]></qid>
+    <cid><![CDATA[68480]]></cid>
+    <qid><![CDATA[373574]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372613]]></cqid>
-    <cfieldname><![CDATA[647633X26845X372613]]></cfieldname>
+    <cqid><![CDATA[373573]]></cqid>
+    <cfieldname><![CDATA[111318X26951X373573]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68272]]></cid>
-    <qid><![CDATA[372623]]></qid>
+    <cid><![CDATA[68482]]></cid>
+    <qid><![CDATA[373575]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372622]]></cqid>
-    <cfieldname><![CDATA[647633X26846X372622]]></cfieldname>
+    <cqid><![CDATA[373573]]></cqid>
+    <cfieldname><![CDATA[111318X26951X373573]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68275]]></cid>
-    <qid><![CDATA[372638]]></qid>
+    <cid><![CDATA[68483]]></cid>
+    <qid><![CDATA[373577]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372631]]></cqid>
-    <cfieldname><![CDATA[647633X26847X372631]]></cfieldname>
+    <cqid><![CDATA[373576]]></cqid>
+    <cfieldname><![CDATA[111318X26952X373576]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68274]]></cid>
-    <qid><![CDATA[372632]]></qid>
+    <cid><![CDATA[68481]]></cid>
+    <qid><![CDATA[373578]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372631]]></cqid>
-    <cfieldname><![CDATA[647633X26847X372631]]></cfieldname>
+    <cqid><![CDATA[373576]]></cqid>
+    <cfieldname><![CDATA[111318X26952X373576]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68279]]></cid>
-    <qid><![CDATA[372652]]></qid>
+    <cid><![CDATA[68485]]></cid>
+    <qid><![CDATA[373580]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372646]]></cqid>
-    <cfieldname><![CDATA[647633X26849X372646]]></cfieldname>
+    <cqid><![CDATA[373579]]></cqid>
+    <cfieldname><![CDATA[111318X26953X373579]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68276]]></cid>
-    <qid><![CDATA[372640]]></qid>
+    <cid><![CDATA[68484]]></cid>
+    <qid><![CDATA[373581]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372639]]></cqid>
-    <cfieldname><![CDATA[647633X26848X372639]]></cfieldname>
+    <cqid><![CDATA[373579]]></cqid>
+    <cfieldname><![CDATA[111318X26953X373579]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68277]]></cid>
-    <qid><![CDATA[372645]]></qid>
+    <cid><![CDATA[68487]]></cid>
+    <qid><![CDATA[373583]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372639]]></cqid>
-    <cfieldname><![CDATA[647633X26848X372639]]></cfieldname>
+    <cqid><![CDATA[373582]]></cqid>
+    <cfieldname><![CDATA[111318X26954X373582]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68278]]></cid>
-    <qid><![CDATA[372647]]></qid>
+    <cid><![CDATA[68488]]></cid>
+    <qid><![CDATA[373584]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372646]]></cqid>
-    <cfieldname><![CDATA[647633X26849X372646]]></cfieldname>
+    <cqid><![CDATA[373582]]></cqid>
+    <cfieldname><![CDATA[111318X26954X373582]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68280]]></cid>
-    <qid><![CDATA[372654]]></qid>
+    <cid><![CDATA[68489]]></cid>
+    <qid><![CDATA[373586]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372653]]></cqid>
-    <cfieldname><![CDATA[647633X26850X372653]]></cfieldname>
+    <cqid><![CDATA[373585]]></cqid>
+    <cfieldname><![CDATA[111318X26955X373585]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
    <row>
-    <cid><![CDATA[68281]]></cid>
-    <qid><![CDATA[372657]]></qid>
+    <cid><![CDATA[68495]]></cid>
+    <qid><![CDATA[373587]]></qid>
     <scenario><![CDATA[1]]></scenario>
-    <cqid><![CDATA[372653]]></cqid>
-    <cfieldname><![CDATA[647633X26850X372653]]></cfieldname>
+    <cqid><![CDATA[373585]]></cqid>
+    <cfieldname><![CDATA[111318X26955X373585]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[68496]]></cid>
+    <qid><![CDATA[373588]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[373587]]></cqid>
+    <cfieldname><![CDATA[111318X26955X373587]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[68486]]></cid>
+    <qid><![CDATA[373589]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[373585]]></cqid>
+    <cfieldname><![CDATA[111318X26955X373585]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[68490]]></cid>
+    <qid><![CDATA[373591]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[373590]]></cqid>
+    <cfieldname><![CDATA[111318X26956X373590]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[68494]]></cid>
+    <qid><![CDATA[373592]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[373590]]></cqid>
+    <cfieldname><![CDATA[111318X26956X373590]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+   </row>
+   <row>
+    <cid><![CDATA[68491]]></cid>
+    <qid><![CDATA[373593]]></qid>
+    <scenario><![CDATA[1]]></scenario>
+    <cqid><![CDATA[373590]]></cqid>
+    <cfieldname><![CDATA[111318X26956X373590]]></cfieldname>
     <method><![CDATA[==]]></method>
     <value><![CDATA[Y]]></value>
    </row>
@@ -971,8 +1025,8 @@
   </fields>
   <rows>
    <row>
-    <gid><![CDATA[26836]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26942]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Eröffnungsveranstaltung]]></group_name>
     <group_order><![CDATA[0]]></group_order>
     <description/>
@@ -981,8 +1035,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26837]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Bunter Nachmittag]]></group_name>
     <group_order><![CDATA[1]]></group_order>
     <description/>
@@ -991,8 +1045,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26838]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26944]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Kennenlernspieleabend]]></group_name>
     <group_order><![CDATA[2]]></group_order>
     <description/>
@@ -1001,8 +1055,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26839]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26945]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Wanderung]]></group_name>
     <group_order><![CDATA[3]]></group_order>
     <description/>
@@ -1011,8 +1065,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26840]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26946]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Clubtour]]></group_name>
     <group_order><![CDATA[4]]></group_order>
     <description/>
@@ -1021,8 +1075,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26841]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26947]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Einschreibung]]></group_name>
     <group_order><![CDATA[5]]></group_order>
     <description/>
@@ -1031,8 +1085,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26842]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26948]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[ESE-Kino]]></group_name>
     <group_order><![CDATA[6]]></group_order>
     <description/>
@@ -1041,8 +1095,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26843]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26949]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Vorstellung der Lehrpersonen]]></group_name>
     <group_order><![CDATA[7]]></group_order>
     <description/>
@@ -1051,8 +1105,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26844]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26950]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Schnitzeljagd]]></group_name>
     <group_order><![CDATA[8]]></group_order>
     <description/>
@@ -1061,8 +1115,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26845]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26951]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Vorträge zum Studium]]></group_name>
     <group_order><![CDATA[9]]></group_order>
     <description/>
@@ -1071,8 +1125,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26846]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26952]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[ESE Spiel]]></group_name>
     <group_order><![CDATA[10]]></group_order>
     <description/>
@@ -1081,8 +1135,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26847]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26953]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Stadtführung]]></group_name>
     <group_order><![CDATA[11]]></group_order>
     <description/>
@@ -1091,8 +1145,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26848]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26954]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Frühstück]]></group_name>
     <group_order><![CDATA[12]]></group_order>
     <description/>
@@ -1101,8 +1155,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26849]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26955]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[Allgemeines]]></group_name>
     <group_order><![CDATA[14]]></group_order>
     <description/>
@@ -1111,8 +1165,8 @@
     <grelevance/>
    </row>
    <row>
-    <gid><![CDATA[26850]]></gid>
-    <sid><![CDATA[647633]]></sid>
+    <gid><![CDATA[26956]]></gid>
+    <sid><![CDATA[111318]]></sid>
     <group_name><![CDATA[ESE Fahrt]]></group_name>
     <group_order><![CDATA[13]]></group_order>
     <description/>
@@ -1143,10 +1197,10 @@
   </fields>
   <rows>
    <row>
-    <qid><![CDATA[372537]]></qid>
+    <qid><![CDATA[373543]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[eroeffteilnahme]]></title>
     <question><![CDATA[Hast du an der Eröffnungsveranstaltung teilgenommen?]]></question>
@@ -1161,15 +1215,15 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372539]]></qid>
+    <qid><![CDATA[373544]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[eroeffmatrix]]></title>
     <question><![CDATA[<p>
-	Bitte bewerte die folgenden Punkte bezüglich ihrer Optimalität.</p>
-]]></question>
+                        Bitte bewerte die folgenden Punkte bezüglich ihrer Optimalität.</p>
+                    ]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
@@ -1178,13 +1232,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26836X372537.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26942X373543.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372549]]></qid>
+    <qid><![CDATA[373545]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[eroeffcomment]]></title>
     <question><![CDATA[Folgendes habe ich außerdem zur Eröffnungsveranstaltung zu sagen:]]></question>
@@ -1196,13 +1250,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26836X372537.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26942X373543.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372550]]></qid>
+    <qid><![CDATA[373546]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[tutmatrix]]></title>
     <question><![CDATA[Bitte bewerte die folgenden Punkte zum Tutorium bezüglich ihrer Optimalität]]></question>
@@ -1214,13 +1268,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26836X372537.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26942X373543.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372554]]></qid>
+    <qid><![CDATA[373547]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[tutcomment]]></title>
     <question><![CDATA[Folgendes habe ich außerdem zum Tutorium zu sagen:]]></question>
@@ -1232,13 +1286,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26836X372537.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26942X373543.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372555]]></qid>
+    <qid><![CDATA[373548]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26837]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[nachmteilnahme]]></title>
     <question><![CDATA[Hast du am Bunten Nachmittag Teilgenommen?]]></question>
@@ -1253,10 +1307,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372556]]></qid>
+    <qid><![CDATA[373549]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26837]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[nachmmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zum Bunten Nachmittag bezüglich ihrer Optimalität.]]></question>
@@ -1268,13 +1322,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26837X372555.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26943X373548.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372558]]></qid>
+    <qid><![CDATA[373550]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26837]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[nachmcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zum Bunten Nachmittag zu sagen:]]></question>
@@ -1286,13 +1340,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26837X372555.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26943X373548.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372559]]></qid>
+    <qid><![CDATA[373551]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[kennlteilnahme]]></title>
     <question><![CDATA[Hast du am Kennenlernspieleabend Teilgenommen?]]></question>
@@ -1307,10 +1361,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372560]]></qid>
+    <qid><![CDATA[373552]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[kennlmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zum Kennenlernspieleabend bezüglich ihrer Optimalität.]]></question>
@@ -1322,13 +1376,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26838X372559.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26944X373551.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372562]]></qid>
+    <qid><![CDATA[373553]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[kennlcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zum Kennenlernspieleabend zu sagen:]]></question>
@@ -1340,13 +1394,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26838X372559.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26944X373551.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372565]]></qid>
+    <qid><![CDATA[373554]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[kennlgrillgmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zum Grillgut]]></question>
@@ -1358,13 +1412,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26838X372559.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26944X373551.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372570]]></qid>
+    <qid><![CDATA[373555]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26839]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26945]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[wandteilnahme]]></title>
     <question><![CDATA[Hast du an der Wanderung Teilgenommen?]]></question>
@@ -1379,10 +1433,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372571]]></qid>
+    <qid><![CDATA[373556]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26839]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26945]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[wandmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zur Wanderung bezüglich ihrer Optimalität.]]></question>
@@ -1394,13 +1448,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26839X372570.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26945X373555.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372577]]></qid>
+    <qid><![CDATA[373557]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26839]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26945]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[wandcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zur Wanderung zu sagen:]]></question>
@@ -1412,13 +1466,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26839X372570.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26945X373555.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372578]]></qid>
+    <qid><![CDATA[373558]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26840]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26946]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[clubteilnahme]]></title>
     <question><![CDATA[Hast du an der Clubtour Teilgenommen?]]></question>
@@ -1433,10 +1487,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372579]]></qid>
+    <qid><![CDATA[373559]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26840]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26946]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[clubmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zur Clubtour bezüglich ihrer Optimalität.]]></question>
@@ -1448,13 +1502,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26840X372578.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26946X373558.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372585]]></qid>
+    <qid><![CDATA[373560]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26840]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26946]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[clubkomment]]></title>
     <question><![CDATA[Das habe ich außerdem zur Clubtour zu sagen:]]></question>
@@ -1466,13 +1520,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26840X372578.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26946X373558.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372586]]></qid>
+    <qid><![CDATA[373561]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[einschteilnahme]]></title>
     <question><![CDATA[Hast du an der Einschreibung Teilgenommen?]]></question>
@@ -1487,10 +1541,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372587]]></qid>
+    <qid><![CDATA[373562]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[einschmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zur Einschreibung bezüglich ihrer Optimalität.]]></question>
@@ -1502,13 +1556,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26841X372586.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26947X373561.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372591]]></qid>
+    <qid><![CDATA[373563]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[einschcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zur Einschreibung zu sagen:]]></question>
@@ -1520,13 +1574,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26841X372586.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26947X373561.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372592]]></qid>
+    <qid><![CDATA[373564]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26842]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26948]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[kinoteilnahme]]></title>
     <question><![CDATA[Hast du am ESE-Kino Teilgenommen?]]></question>
@@ -1541,10 +1595,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372593]]></qid>
+    <qid><![CDATA[373565]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26842]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26948]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[kinomatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zum ESE-Kino bezüglich ihrer Optimalität.]]></question>
@@ -1556,13 +1610,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26842X372592.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26948X373564.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372598]]></qid>
+    <qid><![CDATA[373566]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26842]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26948]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[kinocomment]]></title>
     <question><![CDATA[Das habe ich außerdem zum ESE-Kino zu sagen:]]></question>
@@ -1574,13 +1628,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26842X372592.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26948X373564.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372599]]></qid>
+    <qid><![CDATA[373567]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26843]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26949]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[profteilnahme]]></title>
     <question><![CDATA[Hast du an der Vorstellung der Lehrpersonen Teilgenommen?]]></question>
@@ -1595,10 +1649,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372600]]></qid>
+    <qid><![CDATA[373568]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26843]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26949]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[profmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zur Vorstellung der Lehrpersonen bezüglich ihrer Optimalität.]]></question>
@@ -1610,13 +1664,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26843X372599.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26949X373567.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372605]]></qid>
+    <qid><![CDATA[373569]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26843]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26949]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[profcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zur Vorstellung der Lehrpersonen zu sagen:]]></question>
@@ -1628,13 +1682,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26843X372599.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26949X373567.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372606]]></qid>
+    <qid><![CDATA[373570]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26844]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26950]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[schnizzteilnahme]]></title>
     <question><![CDATA[Hast du an der Schnitzeljagd Teilgenommen?]]></question>
@@ -1649,10 +1703,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372607]]></qid>
+    <qid><![CDATA[373571]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26844]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26950]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[schnizzmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zur Schnitzeljagd bezüglich ihrer Optimalität.]]></question>
@@ -1664,13 +1718,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26844X372606.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26950X373570.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372612]]></qid>
+    <qid><![CDATA[373572]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26844]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26950]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[schnizzcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zur Schnitzeljagd zu sagen:]]></question>
@@ -1682,13 +1736,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26844X372606.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26950X373570.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372613]]></qid>
+    <qid><![CDATA[373573]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[vortrteilnahme]]></title>
     <question><![CDATA[Hast du an den Vorträgen zum Studium Teilgenommen?]]></question>
@@ -1703,10 +1757,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372614]]></qid>
+    <qid><![CDATA[373574]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[vortrmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zu den Vorträgen zum Studium bezüglich ihrer Optimalität.]]></question>
@@ -1718,13 +1772,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26845X372613.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26951X373573.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372621]]></qid>
+    <qid><![CDATA[373575]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[vortrcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zu den Vorträgen zum Studium zu sagen:]]></question>
@@ -1736,13 +1790,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26845X372613.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26951X373573.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372622]]></qid>
+    <qid><![CDATA[373576]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[spielteilnahme]]></title>
     <question><![CDATA[Hast du am ESE Spiel Teilgenommen?]]></question>
@@ -1757,10 +1811,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372623]]></qid>
+    <qid><![CDATA[373577]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[spielmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zum ESE Spiel bezüglich ihrer Optimalität.]]></question>
@@ -1772,13 +1826,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26846X372622.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26952X373576.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372630]]></qid>
+    <qid><![CDATA[373578]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[spielcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zum ESE Spiel zu sagen:]]></question>
@@ -1790,13 +1844,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26846X372622.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26952X373576.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372631]]></qid>
+    <qid><![CDATA[373579]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26847]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26953]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[stadtteilnahme]]></title>
     <question><![CDATA[Hast du an der Stadtführung Teilgenommen?]]></question>
@@ -1811,10 +1865,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372632]]></qid>
+    <qid><![CDATA[373580]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26847]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26953]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[stadtmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zur Stadtführung bezüglich ihrer Optimalität.]]></question>
@@ -1826,13 +1880,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26847X372631.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26953X373579.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372638]]></qid>
+    <qid><![CDATA[373581]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26847]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26953]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[stadtcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zur Stadtführung zu sagen:]]></question>
@@ -1844,13 +1898,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26847X372631.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26953X373579.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372639]]></qid>
+    <qid><![CDATA[373582]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26848]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26954]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[frueteilnahme]]></title>
     <question><![CDATA[Hast du am Frühstück Teilgenommen?]]></question>
@@ -1865,10 +1919,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372640]]></qid>
+    <qid><![CDATA[373583]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26848]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26954]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[fruematrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zum Frühstück bezüglich ihrer Optimalität.]]></question>
@@ -1880,13 +1934,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26848X372639.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26954X373582.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372645]]></qid>
+    <qid><![CDATA[373584]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26848]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26954]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[fruecomment]]></title>
     <question><![CDATA[Das habe ich außerdem zum Frühstück zu sagen:]]></question>
@@ -1898,13 +1952,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26848X372639.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26954X373582.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372646]]></qid>
+    <qid><![CDATA[373585]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26849]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26955]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[generalteilnahme]]></title>
     <question><![CDATA[Hast du überhaupt an der ESE teilgenommen?]]></question>
@@ -1919,10 +1973,10 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372647]]></qid>
+    <qid><![CDATA[373586]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26849]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26955]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[generalmatrix]]></title>
     <question><![CDATA[Bitte bewerte folgende Punkte zur ESE bezüglich ihrer Optimalität.]]></question>
@@ -1934,13 +1988,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26849X372646.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26955X373585.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372648]]></qid>
+    <qid><![CDATA[373587]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26849]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26955]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[generaltutor]]></title>
     <question><![CDATA[Spielst du mit dem Gedanken, im nächsten Jahr selbst ESE Tutor zu werden?]]></question>
@@ -1952,15 +2006,15 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26849X372646.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26955X373585.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372649]]></qid>
+    <qid><![CDATA[373588]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26849]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26955]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[generaltutormotivation]]></title>
+    <title><![CDATA[generaltutormotivati]]></title>
     <question><![CDATA[Welche speziellen Punkte haben dich dazu bewogen, selbst die Tutorenschaft in betracht zu ziehen?]]></question>
     <preg/>
     <help/>
@@ -1970,13 +2024,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26849X372648.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26955X373587.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372652]]></qid>
+    <qid><![CDATA[373589]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26849]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26955]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[generalcomment]]></title>
     <question><![CDATA[Das habe ich außerdem zu sagen:]]></question>
@@ -1988,13 +2042,13 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26849X372646.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26955X373585.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372653]]></qid>
+    <qid><![CDATA[373590]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26850]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26956]]></gid>
     <type><![CDATA[Y]]></type>
     <title><![CDATA[fartteilnahme]]></title>
     <question><![CDATA[Andere Fachschaften bieten in Zusammenhang mit der ESE eine ESE Fahrt an. Das bedeutet, die Fachschaft fährt mit den Erstis, die Lust darauf haben, in die Wallachei und es gibt Spaß, Spiel und Spannung. Würdest du an einer solchen ESE Fahrt Teilnehmen?]]></question>
@@ -2009,46 +2063,46 @@
     <relevance><![CDATA[1]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372654]]></qid>
+    <qid><![CDATA[373591]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26850]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26956]]></gid>
     <type><![CDATA[!]]></type>
     <title><![CDATA[fartkosten]]></title>
     <question><![CDATA[Wie viel würdest du für eine Solche Fahrt bezahlen?]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26850X372653.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26956X373590.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372656]]></qid>
+    <qid><![CDATA[373592]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26850]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26956]]></gid>
     <type><![CDATA[!]]></type>
     <title><![CDATA[fartentfernung]]></title>
     <question><![CDATA[Wie weit sollte diese Fahrt von Dresden entfernt sein?]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
-    <mandatory><![CDATA[N]]></mandatory>
+    <mandatory><![CDATA[Y]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26850X372653.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26956X373590.NAOK == "Y"))]]></relevance>
    </row>
    <row>
-    <qid><![CDATA[372657]]></qid>
+    <qid><![CDATA[373593]]></qid>
     <parent_qid><![CDATA[0]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26850]]></gid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26956]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[fartcommentar]]></title>
     <question><![CDATA[Diese Ideen hätte ich für eine solche Fahrt:]]></question>
@@ -2060,7 +2114,7 @@
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
-    <relevance><![CDATA[((647633X26850X372653.NAOK == "Y"))]]></relevance>
+    <relevance><![CDATA[((111318X26956X373590.NAOK == "Y"))]]></relevance>
    </row>
   </rows>
  </questions>
@@ -2084,1057 +2138,1426 @@
    <fieldname>relevance</fieldname>
   </fields>
   <rows>
-   <!-- Eröffnung und Tutorien -->
    <row>
-    <qid><![CDATA[372540]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373594]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[Der Inhalt der Studentischen Motivationsrede]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372541]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373595]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Die Länge der Studentischen Motivationsrede]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372542]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373596]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[Der Inhalt der Rede des Dekans Prof. Aßmann]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372543]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373597]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ004]]></title>
     <question><![CDATA[Die Länge der Rede des Dekans Prof. Aßmann]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372544]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373598]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ005]]></title>
     <question><![CDATA[Der Inhalt der Rede des Studiendekans Prof. Weber]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[5]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372545]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373599]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ006]]></title>
     <question><![CDATA[Die Länge der Rede des Studiendekans Prof. Weber]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[6]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372546]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373600]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ007]]></title>
     <question><![CDATA[Der Kurzüberblick über die ESE]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[7]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372547]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373601]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ008]]></title>
     <question><![CDATA[Die Einteilung in die Tutorien]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[8]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372548]]></qid>
-    <parent_qid><![CDATA[372539]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373602]]></qid>
+    <parent_qid><![CDATA[373544]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[F]]></type>
     <title><![CDATA[SQ009]]></title>
     <question><![CDATA[Mein Gesamteindruck der Eröffnungsveranstaltung]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[9]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372551]]></qid>
-    <parent_qid><![CDATA[372550]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373603]]></qid>
+    <parent_qid><![CDATA[373546]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[Der Inhalt des Tutoriums]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372552]]></qid>
-    <parent_qid><![CDATA[372550]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373604]]></qid>
+    <parent_qid><![CDATA[373546]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Die Länge des Tutoriums]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372553]]></qid>
-    <parent_qid><![CDATA[372550]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26836]]></gid>
+    <qid><![CDATA[373605]]></qid>
+    <parent_qid><![CDATA[373546]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26942]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[Kompetenz der Tutoren]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
-   <!-- Bunter Nachmittag -->
-   <!-- TODO: More Questions for Bunter Nachmittag -->
    <row>
-    <qid><![CDATA[372557]]></qid>
-    <parent_qid><![CDATA[372556]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26837]]></gid>
+    <qid><![CDATA[373606]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Mein Gesamteindruck des Bunten Nachmittags]]></question>
+    <question><![CDATA[Die Computerecke]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
-   <!-- Kennenlernspieleabend -->
    <row>
-    <qid><![CDATA[372561]]></qid>
-    <parent_qid><![CDATA[372560]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <qid><![CDATA[373607]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Fakultätsführungen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373608]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Die Führung durchs Rechenzentrum]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373609]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Die Führung durch das 5G Lab]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373610]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Die Lounge]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373611]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Das Speedfriending]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373612]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Der Tanzworkshop]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373613]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ008]]></title>
+    <question><![CDATA[Die Lego Roboter Arena]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373614]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ009]]></title>
+    <question><![CDATA[Der Photoshop Vortrag]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373615]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ010]]></title>
+    <question><![CDATA[Der Kolle Mate Vortrag]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[10]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373616]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ011]]></title>
+    <question><![CDATA[Der Stand der Online Vorbereitungskurse]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[11]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373617]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ012]]></title>
+    <question><![CDATA[Der Stand der Orientierungsplattform Forschung &amp; Praxis]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[12]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373618]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ013]]></title>
+    <question><![CDATA[Der Stand von 3m5]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[13]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373619]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ014]]></title>
+    <question><![CDATA[Das Kuchenbuffet]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[14]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373620]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ015]]></title>
+    <question><![CDATA[Der Stand von Elbflorace]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[15]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373621]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ016]]></title>
+    <question><![CDATA[Der Stand der AG DSN]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[16]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373622]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ017]]></title>
+    <question><![CDATA[Der Stand von WHAT]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[17]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373623]]></qid>
+    <parent_qid><![CDATA[373549]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26943]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[r110sq0]]></title>
+    <question><![CDATA[Mein Gesamteindruck des Bunten Nachmittags]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[10]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373624]]></qid>
+    <parent_qid><![CDATA[373552]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[Mein Gesamteindruck des Kennenlernspieleabends]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372563]]></qid>
-    <parent_qid><![CDATA[372560]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <qid><![CDATA[373625]]></qid>
+    <parent_qid><![CDATA[373552]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Die Auswahlmöglichkeiten des Grillguts]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372564]]></qid>
-    <parent_qid><![CDATA[372560]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <qid><![CDATA[373626]]></qid>
+    <parent_qid><![CDATA[373552]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[Die Getränkeauswahl zum Grillgut]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
-   <!-- Grillgut bewertung -->
    <row>
-    <qid><![CDATA[372566]]></qid>
-    <parent_qid><![CDATA[372565]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <qid><![CDATA[373627]]></qid>
+    <parent_qid><![CDATA[373554]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ002]]></title>
     <question><![CDATA[Steak]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372567]]></qid>
-    <parent_qid><![CDATA[372565]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <qid><![CDATA[373628]]></qid>
+    <parent_qid><![CDATA[373554]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ001]]></title>
     <question><![CDATA[Grillwürstchen]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372568]]></qid>
-    <parent_qid><![CDATA[372565]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
+    <qid><![CDATA[373629]]></qid>
+    <parent_qid><![CDATA[373554]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ003]]></title>
     <question><![CDATA[Grillkäse]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372569]]></qid>
-    <parent_qid><![CDATA[372565]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26838]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Kartoffelecken]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- Wanderung -->
-   <row>
-    <qid><![CDATA[372572]]></qid>
-    <parent_qid><![CDATA[372571]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26839]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Schwierigkeit der Wanderung (Steigung etc.)]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372573]]></qid>
-    <parent_qid><![CDATA[372571]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26839]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Die Länge der Wanderung]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372574]]></qid>
-    <parent_qid><![CDATA[372571]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26839]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Zeit und Raum für Gespräche während der Wanderung]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372575]]></qid>
-    <parent_qid><![CDATA[372571]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26839]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Die Landschaftlichen Aspekte (Ausblicke etc.)]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- Clubtour -->
-   <row>
-    <qid><![CDATA[372576]]></qid>
-    <parent_qid><![CDATA[372571]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26839]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ005]]></title>
-    <question><![CDATA[Mein Gesamteindruck der Wanderung]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372581]]></qid>
-    <parent_qid><![CDATA[372579]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26840]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Verweilzeit in den Clubs war zu lang]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372582]]></qid>
-    <parent_qid><![CDATA[372579]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26840]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Die Gruppengröße]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372584]]></qid>
-    <parent_qid><![CDATA[372579]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26840]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Mein Gesamteindruck der Clubtour]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- Einschreibung -->
-   <row>
-    <qid><![CDATA[372589]]></qid>
-    <parent_qid><![CDATA[372587]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Die Kompetenz des Einschreibungstutors]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372590]]></qid>
-    <parent_qid><![CDATA[372587]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Erklärung zum Outlook web client]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[373591]]></qid>
-    <parent_qid><![CDATA[372587]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Die Erklärung zu jExam]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[373592]]></qid>
-    <parent_qid><![CDATA[372587]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Die Erklärung zu OPAL]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[373593]]></qid>
-    <parent_qid><![CDATA[372587]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ005]]></title>
-    <question><![CDATA[Die Erklärung zu den Mailinglisten]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[373588]]></qid>
-    <parent_qid><![CDATA[372587]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26841]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ006]]></title>
-    <question><![CDATA[Mein Gesamteindruck der Einschreibung]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[6]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- ESE-Kino -->
-   <row>
-    <qid><![CDATA[372594]]></qid>
-    <parent_qid><![CDATA[372593]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26842]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Tatsache, dass der Film unbekannt war]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372595]]></qid>
-    <parent_qid><![CDATA[372593]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26842]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Die Filmauswahl]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372596]]></qid>
-    <parent_qid><![CDATA[372593]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26842]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Die Sprache des Films (deutsch)]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372597]]></qid>
-    <parent_qid><![CDATA[372593]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26842]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Mein Gesamteindruck des ESE-Kinos]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- Vorstellung der Lehrpersonen -->
-   <row>
-    <qid><![CDATA[372601]]></qid>
-    <parent_qid><![CDATA[372600]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26843]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Die Moderation]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372602]]></qid>
-    <parent_qid><![CDATA[372600]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26843]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Gesamtlänge der Veranstaltung]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372603]]></qid>
-    <parent_qid><![CDATA[372600]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26843]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Die Länge der einzelnen Vorträge]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372604]]></qid>
-    <parent_qid><![CDATA[372600]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26843]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Mein Gesamteindruck der Vorstellung der Lehrpersonen]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- Schnitzeljagd -->
-   <row>
-    <qid><![CDATA[372608]]></qid>
-    <parent_qid><![CDATA[372607]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26844]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Die Fairness]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372609]]></qid>
-    <parent_qid><![CDATA[372607]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26844]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Zeitliche Länge]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372610]]></qid>
-    <parent_qid><![CDATA[372607]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26844]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Die Gruppengröße]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372611]]></qid>
-    <parent_qid><![CDATA[372607]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26844]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Mein Gesamteindruck der Schnitzeljagd]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- Vorträge -->
-   <!-- TODO: Were there more Vorträge? -->
-   <row>
-    <qid><![CDATA[372615]]></qid>
-    <parent_qid><![CDATA[372614]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Der Vortrag zum Auslandsstudium]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372616]]></qid>
-    <parent_qid><![CDATA[372614]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Der Vortrag zu TUDIAS]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372617]]></qid>
-    <parent_qid><![CDATA[372614]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Der Vortrag zu Studienangelegenheiten und -Organisation (Mittwoch)]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372618]]></qid>
-    <parent_qid><![CDATA[372614]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Der Vortrag zur studentischen Mitbestimmung (zum FSR)]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372619]]></qid>
-    <parent_qid><![CDATA[372614]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ005]]></title>
-    <question><![CDATA[Der Vortrag zum Studentencafe ASCII]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372620]]></qid>
-    <parent_qid><![CDATA[372614]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26845]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ006]]></title>
-    <question><![CDATA[Mein Gesamteindruck der Vorträge zum Studium]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[6]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- ESE Spiel -->
-   <row>
-    <qid><![CDATA[372624]]></qid>
-    <parent_qid><![CDATA[372623]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Das Balancing]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372625]]></qid>
-    <parent_qid><![CDATA[372623]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Zeitliche Länge]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372626]]></qid>
-    <parent_qid><![CDATA[372623]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ003]]></title>
-    <question><![CDATA[Die Gruppengröße]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372627]]></qid>
-    <parent_qid><![CDATA[372623]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ004]]></title>
-    <question><![CDATA[Die Fairness]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[4]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372628]]></qid>
-    <parent_qid><![CDATA[372623]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ005]]></title>
-    <question><![CDATA[Der Spaß]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[5]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372629]]></qid>
-    <parent_qid><![CDATA[372623]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ006]]></title>
-    <question><![CDATA[Die Gruppeninteraktion]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[6]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
     <qid><![CDATA[373630]]></qid>
-    <parent_qid><![CDATA[372623]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26846]]></gid>
+    <parent_qid><![CDATA[373554]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26944]]></gid>
     <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ007]]></title>
-    <question><![CDATA[Mein Gesamteindruck des ESE Spiels]]></question>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Kartoffelecken]]></question>
     <help/>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[7]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- Stadtführung -->
-   <!-- TODO: More Questions for Stadtführung -->
-   <row>
-    <qid><![CDATA[372634]]></qid>
-    <parent_qid><![CDATA[372632]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26847]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Zeitliche Länge]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372635]]></qid>
-    <parent_qid><![CDATA[372632]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26847]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Die Gruppengröße]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372637]]></qid>
-    <parent_qid><![CDATA[372632]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26847]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ006]]></title>
-    <question><![CDATA[Mein Gesamteindruck der Stadtführung]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <!-- Frühstück -->
-   <!-- TODO: More Questions for Frühstück -->
-   <row>
-    <qid><![CDATA[372641]]></qid>
-    <parent_qid><![CDATA[372640]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26848]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Auswahl an Getränken]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[2]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372642]]></qid>
-    <parent_qid><![CDATA[372640]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26848]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Die Auswahl an Essen]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372643]]></qid>
-    <parent_qid><![CDATA[372640]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26848]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ006]]></title>
-    <question><![CDATA[Die Unterhaltungsvideos]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372644]]></qid>
-    <parent_qid><![CDATA[372640]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26848]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ007]]></title>
-    <question><![CDATA[Mein Gesamteindruck des Frühstücks]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
-   <!-- Allgemein -->
-   <!-- TODO: More Questions for Allgemein -->
    <row>
-    <qid><![CDATA[372648]]></qid>
-    <parent_qid><![CDATA[372647]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26849]]></gid>
-    <type><![CDATA[T]]></type>
-    <title><![CDATA[SQ001]]></title>
-    <question><![CDATA[Ich hatte das Gefühl, dass immer jemand für mich da war]]></question>
-    <help/>
-    <other><![CDATA[N]]></other>
-    <question_order><![CDATA[1]]></question_order>
-    <language><![CDATA[de]]></language>
-    <scale_id><![CDATA[0]]></scale_id>
-    <same_default><![CDATA[0]]></same_default>
-   </row>
-   <row>
-    <qid><![CDATA[372649]]></qid>
-    <parent_qid><![CDATA[372647]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26849]]></gid>
+    <qid><![CDATA[373631]]></qid>
+    <parent_qid><![CDATA[373556]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26945]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ002]]></title>
-    <question><![CDATA[Die Tutoren waren nett zu mir]]></question>
+    <question><![CDATA[Die Schwierigkeit der Wanderung (Steigung etc.)]]></question>
     <help/>
     <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[2]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
    </row>
    <row>
-    <qid><![CDATA[372650]]></qid>
-    <parent_qid><![CDATA[372647]]></parent_qid>
-    <sid><![CDATA[647633]]></sid>
-    <gid><![CDATA[26849]]></gid>
+    <qid><![CDATA[373632]]></qid>
+    <parent_qid><![CDATA[373556]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26945]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Länge der Wanderung]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373633]]></qid>
+    <parent_qid><![CDATA[373556]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26945]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Zeit und Raum für Gespräche während der Wanderung]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373634]]></qid>
+    <parent_qid><![CDATA[373556]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26945]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Die Landschaftlichen Aspekte (Ausblicke etc.)]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373635]]></qid>
+    <parent_qid><![CDATA[373556]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26945]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Mein Gesamteindruck der Wanderung]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373636]]></qid>
+    <parent_qid><![CDATA[373559]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26946]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Verweilzeit in den Clubs war zu lang]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373637]]></qid>
+    <parent_qid><![CDATA[373559]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26946]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Gruppengröße]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373638]]></qid>
+    <parent_qid><![CDATA[373559]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26946]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Mein Gesamteindruck der Clubtour]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373639]]></qid>
+    <parent_qid><![CDATA[373562]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Kompetenz des Einschreibungstutors]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373640]]></qid>
+    <parent_qid><![CDATA[373562]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Erklärung zum Outlook web client]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373641]]></qid>
+    <parent_qid><![CDATA[373562]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Die Erklärung zu jExam]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373642]]></qid>
+    <parent_qid><![CDATA[373562]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Die Erklärung zu OPAL]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373643]]></qid>
+    <parent_qid><![CDATA[373562]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Die Erklärung zu den Mailinglisten]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373644]]></qid>
+    <parent_qid><![CDATA[373562]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26947]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Mein Gesamteindruck der Einschreibung]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373645]]></qid>
+    <parent_qid><![CDATA[373565]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Tatsache, dass der Film unbekannt war]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373646]]></qid>
+    <parent_qid><![CDATA[373565]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Filmauswahl]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373647]]></qid>
+    <parent_qid><![CDATA[373565]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Die Sprache des Films (deutsch)]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373648]]></qid>
+    <parent_qid><![CDATA[373565]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26948]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Mein Gesamteindruck des ESE-Kinos]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373649]]></qid>
+    <parent_qid><![CDATA[373568]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26949]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Die Moderation]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373650]]></qid>
+    <parent_qid><![CDATA[373568]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26949]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Gesamtlänge der Veranstaltung]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373651]]></qid>
+    <parent_qid><![CDATA[373568]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26949]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Länge der einzelnen Vorträge]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373652]]></qid>
+    <parent_qid><![CDATA[373568]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26949]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Mein Gesamteindruck der Vorstellung der Lehrpersonen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373653]]></qid>
+    <parent_qid><![CDATA[373571]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26950]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Die Fairness]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373654]]></qid>
+    <parent_qid><![CDATA[373571]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26950]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Zeitliche Länge]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373655]]></qid>
+    <parent_qid><![CDATA[373571]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26950]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Gruppengröße]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373656]]></qid>
+    <parent_qid><![CDATA[373571]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26950]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Mein Gesamteindruck der Schnitzeljagd]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373657]]></qid>
+    <parent_qid><![CDATA[373574]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Der Vortrag zum Auslandsstudium]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373658]]></qid>
+    <parent_qid><![CDATA[373574]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Der Vortrag zu TUDIAS]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373659]]></qid>
+    <parent_qid><![CDATA[373574]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Der Vortrag zu Studienangelegenheiten und -Organisation (Mittwoch)]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373660]]></qid>
+    <parent_qid><![CDATA[373574]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Der Vortrag zur studentischen Mitbestimmung (zum FSR)]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373661]]></qid>
+    <parent_qid><![CDATA[373574]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Der Vortrag zum Studentencafe ASCII]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373662]]></qid>
+    <parent_qid><![CDATA[373574]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26951]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Mein Gesamteindruck der Vorträge zum Studium]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373663]]></qid>
+    <parent_qid><![CDATA[373577]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Das Balancing]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373664]]></qid>
+    <parent_qid><![CDATA[373577]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Zeitliche Länge]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373665]]></qid>
+    <parent_qid><![CDATA[373577]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Die Gruppengröße]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373666]]></qid>
+    <parent_qid><![CDATA[373577]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Die Fairness]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373667]]></qid>
+    <parent_qid><![CDATA[373577]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Der Spaß]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373668]]></qid>
+    <parent_qid><![CDATA[373577]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Die Gruppeninteraktion]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373669]]></qid>
+    <parent_qid><![CDATA[373577]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26952]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Mein Gesamteindruck des ESE Spiels]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373670]]></qid>
+    <parent_qid><![CDATA[373580]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Gruppengröße]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373671]]></qid>
+    <parent_qid><![CDATA[373580]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Zeitliche Länge]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373672]]></qid>
+    <parent_qid><![CDATA[373580]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Die Kurzweiligkeit]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373673]]></qid>
+    <parent_qid><![CDATA[373580]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Die Auswahl der besuchten Sehenswürdigkeiten]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373674]]></qid>
+    <parent_qid><![CDATA[373580]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26953]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Mein Gesamteindruck der Stadtführung]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373675]]></qid>
+    <parent_qid><![CDATA[373583]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26954]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Die Auswahl an Getränken]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373676]]></qid>
+    <parent_qid><![CDATA[373583]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26954]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Die Auswahl an Essen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373677]]></qid>
+    <parent_qid><![CDATA[373583]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26954]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Der Kaffee]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373678]]></qid>
+    <parent_qid><![CDATA[373583]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26954]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Die Unterhaltungsvideos]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373679]]></qid>
+    <parent_qid><![CDATA[373583]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26954]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Mein Gesamteindruck des Frühstücks]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373680]]></qid>
+    <parent_qid><![CDATA[373586]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26955]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Ich fühle mich an der Fakultät Willkommen geheißen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373681]]></qid>
+    <parent_qid><![CDATA[373586]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26955]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Ich fühle mich auf mein Studium vorbereitet]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+   </row>
+   <row>
+    <qid><![CDATA[373682]]></qid>
+    <parent_qid><![CDATA[373586]]></parent_qid>
+    <sid><![CDATA[111318]]></sid>
+    <gid><![CDATA[26955]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
     <question><![CDATA[Mein Gesamteindruck der ESE]]></question>
     <help/>
     <other><![CDATA[N]]></other>
-    <question_order><![CDATA[3]]></question_order>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
     <language><![CDATA[de]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
@@ -3201,7 +3624,7 @@
   </fields>
   <rows>
    <row>
-    <sid><![CDATA[647633]]></sid>
+    <sid><![CDATA[111318]]></sid>
     <admin><![CDATA[ese-orga]]></admin>
     <expires><![CDATA[2017-11-30 00:00:00]]></expires>
     <startdate><![CDATA[2017-10-13 00:00:00]]></startdate>
@@ -3278,7 +3701,7 @@
   </fields>
   <rows>
    <row>
-    <surveyls_survey_id><![CDATA[647633]]></surveyls_survey_id>
+    <surveyls_survey_id><![CDATA[111318]]></surveyls_survey_id>
     <surveyls_language><![CDATA[de]]></surveyls_language>
     <surveyls_title><![CDATA[ESE EVA]]></surveyls_title>
     <surveyls_description/>
@@ -3288,55 +3711,55 @@
     <surveyls_urldescription/>
     <surveyls_email_invite_subj><![CDATA[Einladung zu einer Umfrage]]></surveyls_email_invite_subj>
     <surveyls_email_invite><![CDATA[Hallo {FIRSTNAME},<br /><br />
-Hiermit möchten wir Sie zu einer Umfrage einladen.<br /><br />
-Der Titel der Umfrage ist <br />
-'{SURVEYNAME}'<br /><br />
-'{SURVEYDESCRIPTION}'<br /><br />
-Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br /><br />
-Mit freundlichen Grüßen,<br /><br />{ADMINNAME} ({ADMINEMAIL})<br /><br />
-----------------------------------------------<br />
-Klicken Sie hier um die Umfrage zu starten:<br />{SURVEYURL}<br /><br />
-Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />{OPTOUTURL}<br /><br />
-Wenn Sie geblockt sind, jedoch wieder teilnehmen und weitere Einladungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />{OPTINURL}]]></surveyls_email_invite>
+                    Hiermit möchten wir Sie zu einer Umfrage einladen.<br /><br />
+                    Der Titel der Umfrage ist <br />
+                    '{SURVEYNAME}'<br /><br />
+                    '{SURVEYDESCRIPTION}'<br /><br />
+                    Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br /><br />
+                    Mit freundlichen Grüßen,<br /><br />{ADMINNAME} ({ADMINEMAIL})<br /><br />
+                    ----------------------------------------------<br />
+                    Klicken Sie hier um die Umfrage zu starten:<br />{SURVEYURL}<br /><br />
+                    Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />{OPTOUTURL}<br /><br />
+                    Wenn Sie geblockt sind, jedoch wieder teilnehmen und weitere Einladungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />{OPTINURL}]]></surveyls_email_invite>
     <surveyls_email_remind_subj><![CDATA[Erinnerung an die Teilnahme an einer Umfrage]]></surveyls_email_remind_subj>
     <surveyls_email_remind><![CDATA[Hallo {FIRSTNAME},<br /><br />
-Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br /><br />
-Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br /><br />
-Der Titel der Umfrage ist <br />
-'{SURVEYNAME}'<br /><br />
-'{SURVEYDESCRIPTION}'<br /><br />
-Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br /><br />
- Mit freundlichen Grüßen,<br /><br />{ADMINNAME} ({ADMINEMAIL})<br /><br />
-----------------------------------------------<br />
-Klicken Sie hier um die Umfrage zu starten:<br />{SURVEYURL}<br /><br />
-Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />{OPTOUTURL}]]></surveyls_email_remind>
+                    Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br /><br />
+                    Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br /><br />
+                    Der Titel der Umfrage ist <br />
+                    '{SURVEYNAME}'<br /><br />
+                    '{SURVEYDESCRIPTION}'<br /><br />
+                    Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br /><br />
+                    Mit freundlichen Grüßen,<br /><br />{ADMINNAME} ({ADMINEMAIL})<br /><br />
+                    ----------------------------------------------<br />
+                    Klicken Sie hier um die Umfrage zu starten:<br />{SURVEYURL}<br /><br />
+                    Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />{OPTOUTURL}]]></surveyls_email_remind>
     <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
     <surveyls_email_register><![CDATA[Hallo {FIRSTNAME},<br /><br />
-Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br /><br />
-Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br /><br />{SURVEYURL}<br /><br />
-Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
+                    Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br /><br />
+                    Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br /><br />{SURVEYURL}<br /><br />
+                    Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
     <surveyls_email_confirm_subj><![CDATA[Bestätigung für die Teilnahme an unserer Umfrage]]></surveyls_email_confirm_subj>
     <surveyls_email_confirm><![CDATA[Hallo {FIRSTNAME},<br /><br />
-Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br /><br />
-Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br /><br />
-Mit freundlichen Grüßen,<br /><br />{ADMINNAME}]]></surveyls_email_confirm>
+                    Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br /><br />
+                    Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br /><br />
+                    Mit freundlichen Grüßen,<br /><br />{ADMINNAME}]]></surveyls_email_confirm>
     <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
     <surveyls_numberformat><![CDATA[1]]></surveyls_numberformat>
     <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
     <email_admin_notification><![CDATA[Hallo,<br /><br />
-Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br /><br />
-Klicken Sie auf den folgenden Link um die Umfrage neu zu laden:<br />{RELOADURL}<br /><br />
-Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />{VIEWRESPONSEURL}<br /><br />
-Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />{EDITRESPONSEURL}<br /><br />
-Um die Statistik zu sehen, klicken Sie hier:<br />{STATISTICSURL}]]></email_admin_notification>
+                    Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br /><br />
+                    Klicken Sie auf den folgenden Link um die Umfrage neu zu laden:<br />{RELOADURL}<br /><br />
+                    Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />{VIEWRESPONSEURL}<br /><br />
+                    Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />{EDITRESPONSEURL}<br /><br />
+                    Um die Statistik zu sehen, klicken Sie hier:<br />{STATISTICSURL}]]></email_admin_notification>
     <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
     <email_admin_responses><![CDATA[Hallo,<br /><br />
-Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br /><br />
-Klicken Sie auf den folgenden Link um die Umfrage neu zu laden:<br />{RELOADURL}<br /><br />
-Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />{VIEWRESPONSEURL}<br /><br />
-Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />{EDITRESPONSEURL}<br /><br />
-Um die Statistik zu sehen, klicken Sie hier:<br />{STATISTICSURL}<br /><br /><br />
-Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />{ANSWERTABLE}]]></email_admin_responses>
+                    Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br /><br />
+                    Klicken Sie auf den folgenden Link um die Umfrage neu zu laden:<br />{RELOADURL}<br /><br />
+                    Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />{VIEWRESPONSEURL}<br /><br />
+                    Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />{EDITRESPONSEURL}<br /><br />
+                    Um die Statistik zu sehen, klicken Sie hier:<br />{STATISTICSURL}<br /><br /><br />
+                    Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />{ANSWERTABLE}]]></email_admin_responses>
    </row>
   </rows>
  </surveys_languagesettings>
